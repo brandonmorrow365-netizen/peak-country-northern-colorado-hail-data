@@ -1,0 +1,11 @@
+year,observations,hail_days,event_groups,ground_max_inches,ground_size_missing,ground_ge_1,ground_ge_1_5,ground_ge_2,independent_corrob,radar_positive,mrms_coverage_status,mrms_coverage_note
+2016,231,51,167,2.5,31,58,40,11,85,,unavailable,no project MRMS archive coverage before 2020-10-14
+2017,177,43,121,4.25,20,32,17,6,63,,unavailable,no project MRMS archive coverage before 2020-10-14
+2018,343,51,174,2.75,28,126,54,10,190,,unavailable,no project MRMS archive coverage before 2020-10-14
+2019,275,51,152,3.0,28,118,40,8,145,,unavailable,no project MRMS archive coverage before 2020-10-14
+2020,191,30,103,2.0,18,39,21,4,102,0,partial,archive begins 2020-10-14; only late-year coverage
+2021,89,30,67,3.25,10,20,6,4,33,19,available,MRMS archive coverage available; not proof of complete observation sampling
+2022,65,24,35,2.5,6,31,16,3,35,25,available,MRMS archive coverage available; not proof of complete observation sampling
+2023,210,49,141,3.25,17,71,16,6,86,49,available,MRMS archive coverage available; not proof of complete observation sampling
+2024,103,28,56,2.0,9,32,9,3,53,38,available,MRMS archive coverage available; not proof of complete observation sampling
+2025,160,41,103,2.75,7,61,19,10,72,65,available,MRMS archive coverage available; not proof of complete observation sampling

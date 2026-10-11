@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below and preserve the original source credits described in the repository."
+type: dataset
+title: "Peak Country Northern Colorado Hail History Dataset, 2016–2025"
+version: "1.0.0"
+date-released: "2026-10-11"
+repository-code: "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data"
+url: "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0"
+authors:
+  - name: "Peak Country Auto Hail Repair & Paintless Dent Repair"
+    website: "https://peakcountryhail.com/"
+contact:
+  - name: "Peak Country Auto Hail Repair & Paintless Dent Repair"
+    email: "info@peakcountryhail.com"
+    website: "https://peakcountryhail.com/"
+abstract: >-
+  A published historical compilation of 1,844 confirmed ground hail
+  observation lineages in Weld and Larimer Counties, Colorado (2016–2025),
+  with separate geographic subsets, descriptive statistics, figures and
+  source provenance. Radar context is not ground confirmation. These data
+  do not establish individual property hail damage or climatic trends.
+keywords:
+  - hail history
+  - Northern Colorado
+  - Weld County
+  - Larimer County
+  - Greeley
+  - historical hail observations
+  - meteorology
+  - geospatial data

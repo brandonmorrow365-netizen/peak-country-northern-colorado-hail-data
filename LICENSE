@@ -1,0 +1,12 @@
+# Rights and license index — version 1.0.0
+
+This dataset contains material with different legal statuses. No blanket license covers every underlying fact, record, asset, source or identifier.
+
+- LICENSE-DATA / LICENSE-DATA.md (publication-root copy): ODC-By 1.0 applies only to protectable Peak Country-owned selection, coordination, arrangement and compilation/database rights, if and to the extent legally existing.
+- LICENSE-CONTENT / LICENSE-CONTENT.md (publication-root copy): CC BY 4.0 applies only to protectable Peak Country-original expression.
+- RIGHTS.md: exclusions, third-party rights and trademarks.
+- ATTRIBUTION.md: source notices, including independently licensed CoCoRaHS material.
+
+Neither Peak Country license conveys rights in bare facts, public-domain federal information, third-party material, CoCoRaHS source observations, or Peak Country names and logos. Publication does not imply endorsement by any source agency.
+
+**File-by-file rights guide:** See `RIGHTS_BY_FILE.md`. Multi-source observations are not uniformly covered by a single Peak Country license. Do not issue archive metadata under one blanket license without checking the source-specific rights.

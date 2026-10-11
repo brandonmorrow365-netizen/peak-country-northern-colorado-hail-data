@@ -1,0 +1,61 @@
+{
+  "status": "published_v1.0.0",
+  "publisher": {
+    "name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+    "url": "https://peakcountryhail.com/"
+  },
+  "original_figure_expression_license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "source_rights": "Underlying NOAA/NCEI weather facts excluded; CoCoRaHS source content independently CC BY 3.0.",
+  "figures": [
+    {
+      "figure_id": "F1",
+      "title": "Annual confirmed hail observations",
+      "creator": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "credit_text": "Visualization by Peak Country Hail",
+      "publisher_url": "https://peakcountryhail.com/",
+      "png": "annual-observations-2016-2025.png",
+      "svg": "annual-observations-2016-2025.svg",
+      "alt_text": "Bar chart of 10 annual confirmed hail-observation counts in Weld and Larimer Counties, 2016–2025. The highest count is 343 in 2018; the lowest is 65 in 2022. Counts describe observations, not changing hail frequency or climate trends."
+    },
+    {
+      "figure_id": "F2",
+      "title": "Observations by calendar month",
+      "creator": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "credit_text": "Visualization by Peak Country Hail",
+      "publisher_url": "https://peakcountryhail.com/",
+      "png": "monthly-observation-distribution.png",
+      "svg": "monthly-observation-distribution.svg",
+      "alt_text": "Bar chart of observations aggregated by calendar month over 2016–2025. May has 515 observations, June 453 and July 386, while November has none. Counts reflect the assembled reports, not a climate trend or uniform reporting coverage."
+    },
+    {
+      "figure_id": "F3",
+      "title": "Confirmed observations by county",
+      "creator": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "credit_text": "Visualization by Peak Country Hail",
+      "publisher_url": "https://peakcountryhail.com/",
+      "png": "county-observation-counts.png",
+      "svg": "county-observation-counts.svg",
+      "alt_text": "Two bars compare confirmed ground observations from 2016–2025: Weld County 773 and Larimer County 1,071, totaling 1,844. This is a count of observations, not an area-normalized hail-risk comparison."
+    },
+    {
+      "figure_id": "F4",
+      "title": "Ground-reported hail size thresholds",
+      "creator": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "credit_text": "Visualization by Peak Country Hail",
+      "publisher_url": "https://peakcountryhail.com/",
+      "png": "hail-size-thresholds.png",
+      "svg": "hail-size-thresholds.svg",
+      "alt_text": "Three overlapping ground-reported hail-size thresholds: 588 observations at least 1 inch, 238 at least 1.5 inches, and 65 at least 2 inches. The thresholds are nested, not mutually exclusive; radar-only estimates are excluded."
+    },
+    {
+      "figure_id": "F5",
+      "title": "Distance from Greeley geographic reference",
+      "creator": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "credit_text": "Visualization by Peak Country Hail",
+      "publisher_url": "https://peakcountryhail.com/",
+      "png": "distance-from-greeley.png",
+      "svg": "distance-from-greeley.svg",
+      "alt_text": "Six distance bins for 1,844 observations measured by WGS84 geodesic distance from the fixed neutral Lincoln Park, Greeley reference: 0–5 miles 168, over 5–10 miles 109, over 10–15 miles 130, over 15–20 miles 156, over 20–25 miles 501, and outside 25 miles 780. The reference is methodological, not a business address."
+    }
+  ]
+}

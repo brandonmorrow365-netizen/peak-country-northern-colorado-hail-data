@@ -1,0 +1,150 @@
+{
+  "final_license": {
+    "database": {
+      "name": "Open Data Commons Attribution License 1.0",
+      "identifier": "ODC-By-1.0",
+      "url": "https://opendatacommons.org/licenses/by/1-0/",
+      "scope": "ONLY protectable Peak Country-owned rights in database selection, coordination, arrangement or compilation, if and to the extent such rights legally exist. No rights are created where none legally exist.",
+      "exclusions": [
+        "bare facts",
+        "underlying source data",
+        "public-domain federal information",
+        "CoCoRaHS source content",
+        "third-party material",
+        "Peak Country trademarks/logos"
+      ]
+    },
+    "content": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "identifier": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "scope": "ONLY protectable Peak Country-original expression, including methodology prose, public documentation prose, original explanatory captions, original figure/chart expression and descriptive text.",
+      "exclusions": [
+        "bare facts",
+        "underlying source data",
+        "public-domain federal information",
+        "CoCoRaHS source content",
+        "third-party material",
+        "Peak Country trademarks/logos"
+      ]
+    },
+    "cocorahs": {
+      "identifier": "CC-BY-3.0",
+      "url": "https://creativecommons.org/licenses/by/3.0/",
+      "scope": "CoCoRaHS source-layer license preserved independently from Peak Country compilation/content licenses; credit, license link and change notices required."
+    }
+  },
+  "public_approval": true,
+  "raw_mping_used": false,
+  "source_architecture": "Seven actual source/data/QA categories; Peak Country methodology reference separate; owner-approved mixed-rights architecture",
+  "source_count": 7,
+  "sources": [
+    {
+      "coverage": "2016–2025 finalized in-scope",
+      "known_gaps": "no complete guarantees beyond dated frozen source",
+      "lineage_role": "canonical source backbone; EVENT_ID stable source lineage",
+      "organization": "NOAA NCEI",
+      "rights_redistribution": "public derivative release, raw/source archive audit only",
+      "role": "final historical canonical",
+      "source_manifest_status": "OWNER_APPROVED_PUBLIC_V1.0.0",
+      "source_name": "NOAA/NCEI Storm Events",
+      "source_reference": "validated T05/T07/T08/T09"
+    },
+    {
+      "coverage": "historical original 2016–2025 incomplete",
+      "known_gaps": "complete original archive not verified",
+      "lineage_role": "preliminary report lineage; SPC may reuse reports",
+      "organization": "National Weather Service",
+      "rights_redistribution": "no raw archive release",
+      "role": "REFERENCE_ONLY",
+      "source_manifest_status": "OWNER_APPROVED_PUBLIC_V1.0.0",
+      "source_name": "NWS LSR",
+      "source_reference": "validated T05/T07/T08/T09"
+    },
+    {
+      "coverage": "2016–2025 partial",
+      "known_gaps": "2022-02-24 HTTP 502 retrieval gap",
+      "lineage_role": "not automatically independent of NWS/NCEI",
+      "organization": "NOAA Storm Prediction Center",
+      "rights_redistribution": "raw source redistribution review",
+      "role": "USABLE_PARTIAL preliminary derivative",
+      "source_manifest_status": "OWNER_APPROVED_PUBLIC_V1.0.0",
+      "source_name": "SPC",
+      "source_reference": "validated T05/T07/T08/T09"
+    },
+    {
+      "coverage": "2016–2025 approved spatial scope",
+      "known_gaps": "source media excluded",
+      "lineage_role": "nonindependent when source observation reused by others",
+      "organization": "CoCoRaHS",
+      "rights_redistribution": "CC BY 3.0 attribution/license/change notices required",
+      "role": "USABLE_PARTIAL supplemental ground",
+      "source_manifest_status": "OWNER_APPROVED_PUBLIC_V1.0.0",
+      "source_name": "CoCoRaHS",
+      "source_reference": "validated T05/T07/T08/T09"
+    },
+    {
+      "coverage": "none",
+      "known_gaps": "no raw records used",
+      "lineage_role": "NCEI may report mPING as source label",
+      "organization": "NOAA NSSL",
+      "rights_redistribution": "raw release prohibited/not included",
+      "role": "NOT_USED raw",
+      "source_manifest_status": "OWNER_APPROVED_PUBLIC_V1.0.0",
+      "source_name": "mPING",
+      "source_reference": "validated T05/T07/T08/T09"
+    },
+    {
+      "coverage": "public archive 2020-10-14 through 2025-12-31",
+      "known_gaps": "no pre-2020-10-14 archive; no MYRORSS substitute",
+      "lineage_role": "radar does not create or independently corroborate ground observation",
+      "organization": "NOAA NSSL",
+      "rights_redistribution": "derived contextual output only; source rights review",
+      "role": "USABLE_PARTIAL radar-derived context",
+      "source_manifest_status": "OWNER_APPROVED_PUBLIC_V1.0.0",
+      "source_name": "MRMS/MESH CONUS/MESH_00.50",
+      "source_reference": "validated T05/T07/T08/T09"
+    },
+    {
+      "coverage": "frozen 2026 spatial layer",
+      "known_gaps": "not an observational hail source",
+      "lineage_role": "FIPS 08123 / 08069 GIS QA",
+      "organization": "U.S. Census Bureau",
+      "rights_redistribution": "cite U.S. Census boundary layer",
+      "role": "validated geographic boundary QA",
+      "source_manifest_status": "OWNER_APPROVED_PUBLIC_V1.0.0",
+      "source_name": "2026 Census TIGER/Line Colorado Counties",
+      "source_reference": "validated T05/T07/T08/T09"
+    }
+  ],
+  "status": "PUBLISHED_V1.0.0",
+  "methodology_reference": {
+    "classification": "PEAK COUNTRY METHODOLOGY REFERENCE POINT",
+    "name": "Lincoln Park, Greeley, Colorado",
+    "latitude": "40.424896787198563",
+    "longitude": "-104.69350052421541",
+    "selected_by": "Peak Country",
+    "purpose": "WGS84 geodesic distance calculations; methodology reference only; no recalculation",
+    "city_gis_dataset_used": false,
+    "city_gis_license_applies": false,
+    "city_gis_attribution_required": false,
+    "not_a": [
+      "Peak Country business address",
+      "customer location",
+      "municipal-boundary membership",
+      "hail observation source",
+      "evidence Peak Country operates from Lincoln Park"
+    ]
+  },
+  "trademarks": {
+    "reserved": [
+      "Peak Country",
+      "Peak Country Hail",
+      "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "Peak Country logos/shield",
+      "Peak Country brand identifiers"
+    ],
+    "terms": "All trademark/brand rights reserved. Database/documentation licenses grant no trademark or logo rights. Accurate factual identification of Peak Country as publisher is permitted. No sponsorship or endorsement may be implied."
+  },
+  "counsel_review": "recommended for broad downstream redistribution; not a condition of the owner-approved v1.0.0 publication"
+}

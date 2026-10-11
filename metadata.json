@@ -1,0 +1,60 @@
+{
+  "title": "Peak Country Northern Colorado Hail History Dataset, 2016–2025",
+  "publisher": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+  "historical_period": "2016–2025",
+  "geographic_scope": "Weld County and Larimer County, Colorado",
+  "greeley_subset_methodology": "25 statute mile WGS84 geodesic from frozen neutral Lincoln Park centroid (40.424896787198563,-104.69350052421541)",
+  "release_state": "published",
+  "dataset_version": "1.0.0",
+  "methodology_version": "1.0.0",
+  "license": "MIXED_RIGHTS_SEE_LICENSE_RIGHTS_ATTRIBUTION",
+  "doi": null,
+  "publication_date": "2026-10-11",
+  "public_repository_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data",
+  "public_release_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "public_download_urls": {
+    "csv": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.csv",
+    "json": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.json",
+    "geojson": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.geojson",
+    "parquet": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.parquet"
+  },
+  "source_rights": "CoCoRaHS CC BY 3.0 independently preserved; NOAA/NWS/NCEI/SPC/MRMS public-domain federal information and other third-party source rights not relicensed; Peak Country trademarks reserved",
+  "master_observation_count": 1844,
+  "license_data": "ODC-By-1.0 (Peak Country protectable compilation/database rights only, if any)",
+  "license_content": "CC-BY-4.0 (protectable Peak Country-original expression only)",
+  "publisher_url": "https://peakcountryhail.com/",
+  "publisher_identity": {
+    "@type": "Organization",
+    "name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+    "url": "https://peakcountryhail.com/"
+  },
+  "publisher_role": "Independent dataset compiler/publisher of original presentation; weather source rights independent",
+  "documentation": {
+    "methodology": "METHODOLOGY.md",
+    "public_data_dictionary": "DATA_DICTIONARY.md",
+    "sources": "SOURCE_PROVENANCE.md",
+    "limitations": "LIMITATIONS.md",
+    "rights": "RIGHTS.md",
+    "change_log": "CHANGELOG.md",
+    "corrections": "CORRECTIONS.md",
+    "citation": "CITE_THIS_DATASET.md",
+    "citation_file_format": "CITATION.cff"
+  },
+  "interoperable_descriptors": [
+    "schemaorg.jsonld",
+    "dcat.json",
+    "datapackage.json"
+  ],
+  "citation_files": [
+    "CITATION.cff",
+    "CITATION.txt",
+    "CITATION_APA.txt",
+    "CITATION.bib",
+    "CITATION.ris",
+    "CITE_THIS_DATASET.md",
+    "metadata/citation-metadata.json"
+  ],
+  "citation_state": "published_no_doi",
+  "citation_author_entity": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+  "citation_working_title": "Peak Country Northern Colorado Hail History Dataset, 2016–2025"
+}

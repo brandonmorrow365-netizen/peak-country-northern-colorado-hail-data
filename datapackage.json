@@ -1,0 +1,520 @@
+{
+  "profile": "data-package",
+  "name": "peak-country-northern-colorado-hail-history-2016-2025",
+  "title": "Peak Country Northern Colorado Hail History Dataset, 2016–2025",
+  "description": "Published V1.0.0 historical hail-observation compilation; original sources have separate rights and historical reporting limitations.",
+  "id": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "version": "1.0.0",
+  "homepage": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data",
+  "contributors": [
+    {
+      "title": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "role": "publisher"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "ODC-By-1.0",
+      "path": "https://opendatacommons.org/licenses/by/1-0/",
+      "title": "Only protectable Peak Country compilation rights, if any"
+    },
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/legalcode",
+      "title": "Only protectable Peak Country-original expression, if any"
+    }
+  ],
+  "resources": [
+    {
+      "name": "northern-colorado-hail-history-2016-2025",
+      "path": "data/northern-colorado-hail-history-2016-2025.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Master observations CSV",
+      "schema": "metadata/public-table-schema.json"
+    },
+    {
+      "name": "weld-county-hail-history",
+      "path": "data/subsets/weld-county-hail-history.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Weld subset",
+      "schema": "metadata/public-table-schema.json"
+    },
+    {
+      "name": "larimer-county-hail-history",
+      "path": "data/subsets/larimer-county-hail-history.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Larimer subset",
+      "schema": "metadata/public-table-schema.json"
+    },
+    {
+      "name": "greeley-25-mile-hail-history",
+      "path": "data/subsets/greeley-25-mile-hail-history.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Greeley 25 mile subset",
+      "schema": "metadata/public-table-schema.json"
+    },
+    {
+      "name": "event-group-membership",
+      "path": "data/event-group-membership.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Event group memberships",
+      "schema": {
+        "fields": [
+          {
+            "name": "observation_id",
+            "type": "string",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "event_group_id",
+            "type": "string",
+            "constraints": {
+              "required": true
+            }
+          }
+        ],
+        "primaryKey": "observation_id"
+      }
+    },
+    {
+      "name": "annual-summary",
+      "path": "summaries/annual-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: annual-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          },
+          {
+            "name": "hail_days",
+            "type": "integer"
+          },
+          {
+            "name": "event_groups",
+            "type": "integer"
+          },
+          {
+            "name": "ground_max_inches",
+            "type": "number"
+          },
+          {
+            "name": "ground_size_missing",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1_5",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_2",
+            "type": "integer"
+          },
+          {
+            "name": "independent_corrob",
+            "type": "integer"
+          },
+          {
+            "name": "radar_positive",
+            "type": "integer"
+          },
+          {
+            "name": "mrms_coverage_status",
+            "type": "string"
+          },
+          {
+            "name": "mrms_coverage_note",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "monthly-climatology",
+      "path": "summaries/monthly-climatology.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: monthly-climatology.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "integer"
+          },
+          {
+            "name": "month_name",
+            "type": "string"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          },
+          {
+            "name": "hail_days",
+            "type": "integer"
+          },
+          {
+            "name": "event_groups",
+            "type": "integer"
+          },
+          {
+            "name": "ground_max_inches",
+            "type": "number"
+          },
+          {
+            "name": "ground_size_missing",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1_5",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_2",
+            "type": "integer"
+          },
+          {
+            "name": "independent_corrob",
+            "type": "integer"
+          },
+          {
+            "name": "radar_positive",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "county-summary",
+      "path": "summaries/county-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: county-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "county",
+            "type": "string"
+          },
+          {
+            "name": "geoid",
+            "type": "integer"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          },
+          {
+            "name": "hail_days",
+            "type": "integer"
+          },
+          {
+            "name": "event_groups",
+            "type": "integer"
+          },
+          {
+            "name": "ground_max_inches",
+            "type": "number"
+          },
+          {
+            "name": "ground_size_missing",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1_5",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_2",
+            "type": "integer"
+          },
+          {
+            "name": "independent_corrob",
+            "type": "integer"
+          },
+          {
+            "name": "radar_positive",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "community-summary",
+      "path": "summaries/community-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: community-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "reported_location_or_community_label",
+            "type": "string"
+          },
+          {
+            "name": "NOT_municipal_boundary",
+            "type": "boolean"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          },
+          {
+            "name": "hail_days",
+            "type": "integer"
+          },
+          {
+            "name": "event_groups",
+            "type": "integer"
+          },
+          {
+            "name": "ground_max_inches",
+            "type": "number"
+          },
+          {
+            "name": "ground_size_missing",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1_5",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_2",
+            "type": "integer"
+          },
+          {
+            "name": "independent_corrob",
+            "type": "integer"
+          },
+          {
+            "name": "radar_positive",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hail-size-summary",
+      "path": "summaries/hail-size-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: hail-size-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "ground_size_bin",
+            "type": "string"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "hail-day-summary",
+      "path": "summaries/hail-day-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: hail-day-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "scope",
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          },
+          {
+            "name": "hail_days",
+            "type": "integer"
+          },
+          {
+            "name": "event_groups",
+            "type": "integer"
+          },
+          {
+            "name": "ground_max_inches",
+            "type": "number"
+          },
+          {
+            "name": "ground_size_missing",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_1_5",
+            "type": "integer"
+          },
+          {
+            "name": "ground_ge_2",
+            "type": "integer"
+          },
+          {
+            "name": "independent_corrob",
+            "type": "integer"
+          },
+          {
+            "name": "radar_positive",
+            "type": "integer"
+          },
+          {
+            "name": "mrms_coverage_status",
+            "type": "string"
+          },
+          {
+            "name": "mrms_coverage_note",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "distance-from-greeley-summary",
+      "path": "summaries/distance-from-greeley-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: distance-from-greeley-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "distance_bin",
+            "type": "string"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "source-corroboration-summary",
+      "path": "summaries/source-corroboration-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: source-corroboration-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "metric",
+            "type": "string"
+          },
+          {
+            "name": "count",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "event-group-summary",
+      "path": "summaries/event-group-summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Summary: event-group-summary.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "event_group_id",
+            "type": "string"
+          },
+          {
+            "name": "observations",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "name": "northern-colorado-hail-history-2016-2025-json",
+      "path": "data/northern-colorado-hail-history-2016-2025.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Alternate serialization of the same 1,844 master observations; not additional events. See DATA_DICTIONARY.md and LIMITATIONS.md."
+    },
+    {
+      "name": "northern-colorado-hail-history-2016-2025-geojson",
+      "path": "data/northern-colorado-hail-history-2016-2025.geojson",
+      "format": "geojson",
+      "mediatype": "application/geo+json",
+      "description": "Alternate serialization of the same 1,844 master observations; not additional events. See DATA_DICTIONARY.md and LIMITATIONS.md."
+    },
+    {
+      "name": "northern-colorado-hail-history-2016-2025-parquet",
+      "path": "data/northern-colorado-hail-history-2016-2025.parquet",
+      "format": "parquet",
+      "mediatype": "application/vnd.apache.parquet",
+      "description": "Alternate serialization of the same 1,844 master observations; not additional events. See DATA_DICTIONARY.md and LIMITATIONS.md."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NOAA/NCEI Storm Events",
+      "path": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/"
+    },
+    {
+      "title": "CoCoRaHS",
+      "path": "https://api2.cocorahs.org/api/HailObs"
+    }
+  ],
+  "x-release-state": "published",
+  "x-publication-date": "2026-10-11",
+  "x-release-url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "x-rights-notice": "Not a blanket license on third-party source material; see RIGHTS.md and ATTRIBUTION.md",
+  "x-source-license-scopes": "Source data may be separately licensed (CoCoRaHS CC BY 3.0); top-level licenses describe only applicable original publisher-compilation/expression rights. See RIGHTS_BY_FILE.md."
+}

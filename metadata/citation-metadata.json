@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "status": "PUBLISHED_NO_DOI",
+  "type": "dataset",
+  "citation_format": "CFF 1.2.0",
+  "title": "Peak Country Northern Colorado Hail History Dataset, 2016–2025",
+  "authors": [
+    {
+      "type": "Organization",
+      "name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+      "website": "https://peakcountryhail.com/"
+    }
+  ],
+  "publisher": {
+    "name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+    "website": "https://peakcountryhail.com/"
+  },
+  "version": "1.0.0",
+  "historical_coverage": "2016–2025",
+  "publication_date": "2026-10-11",
+  "doi": null,
+  "archive_doi": null,
+  "public_dataset_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "public_repository_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data",
+  "public_release_tag": "v1.0.0",
+  "plain_text": "Peak Country Auto Hail Repair & Paintless Dent Repair. (2026). *Peak Country Northern Colorado Hail History Dataset, 2016–2025* (Version 1.0.0) [Data set]. GitHub. https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "apa": "Peak Country Auto Hail Repair & Paintless Dent Repair. (2026). *Peak Country Northern Colorado Hail History Dataset, 2016–2025* (Version 1.0.0) [Data set]. GitHub. https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "available_formats": [
+    "CITATION.cff",
+    "CITATION.txt",
+    "CITATION_APA.txt",
+    "CITATION.bib",
+    "CITATION.ris",
+    "CITE_THIS_DATASET.md"
+  ],
+  "rights_summary": "Citations identify derivative publisher; CoCoRaHS CC BY 3.0 independent; federal underlying weather facts public domain; Peak Country compilation only ODC-By 1.0 where protectable, original authored expression CC BY 4.0 where protectable; trademarks excluded.",
+  "followup_tasks": {
+    "T18": "Add DOI only after assignment",
+    "T19": "Publish preferred citation and canonical Dataset page only after authorized website update"
+  }
+}

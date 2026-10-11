@@ -1,0 +1,1255 @@
+{
+  "status": "published_v1.0.0",
+  "period": "2016–2025",
+  "source_manifest_lineage": "Frozen, validated retrieval manifest records; no new sources were added during public release preparation",
+  "ncei": {
+    "source_role": "canonical finalized historical",
+    "archives": [
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2016,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2016_c20260323.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2016_c20260323.csv.gz",
+        "source_version_or_date": "20260323",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 9065715,
+        "source_sha256": "d8e1389897df3557e74ba36820357f6962a7c0ca922595400fe74d883f7a5036",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2017,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2017_c20260519.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2017_c20260519.csv.gz",
+        "source_version_or_date": "20260519",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 9340854,
+        "source_sha256": "bd3ca72b71544222cba8aa2b29eb3f0efe050d3330a0c408e208befb66881750",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2018,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2018_c20260323.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2018_c20260323.csv.gz",
+        "source_version_or_date": "20260323",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 9585982,
+        "source_sha256": "19702480f50cd2a8dacce5e57891feba156afb87b1ea5cbb4eaeda69d2b964a4",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2019,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2019_c20260323.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2019_c20260323.csv.gz",
+        "source_version_or_date": "20260323",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 11602648,
+        "source_sha256": "f5043ecc776818b0feffdf1e0fcbaf63329db0635eab1057c7b8ba00ef332e3b",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2020,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2020_c20260323.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2020_c20260323.csv.gz",
+        "source_version_or_date": "20260323",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 10444606,
+        "source_sha256": "895c56fd46991c4d9a135d67558dc4b447a02a2314efac0ace645135b98f9c9d",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2021,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2021_c20260323.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2021_c20260323.csv.gz",
+        "source_version_or_date": "20260323",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 10563953,
+        "source_sha256": "60c1daf96dbe8eafd48c80df5b70df51a0125ab95d467ee7009a646761d57715",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2022,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2022_c20260625.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2022_c20260625.csv.gz",
+        "source_version_or_date": "20260625",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 11817849,
+        "source_sha256": "7d6b79d0049a6edec96b061738289daddba90be26fc9afe7b0a6fd617f21452e",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2023,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2023_c20260323.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2023_c20260323.csv.gz",
+        "source_version_or_date": "20260323",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 12888092,
+        "source_sha256": "713784bed40d9e5a95b1d6240a654f865f3ef97703713105c7b35437270da134",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2024,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2024_c20260728.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2024_c20260728.csv.gz",
+        "source_version_or_date": "20260728",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 12693243,
+        "source_sha256": "2070b83eccab041b36360ab73645b9a249c3eefc5b92b5b3fc0cbba4d9fcc09c",
+        "retrieval_status": "retrieved_verified"
+      },
+      {
+        "source_product": "NOAA NCEI Storm Events compressed annual details",
+        "year": 2025,
+        "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2025_c20260819.csv.gz",
+        "source_filename": "StormEvents_details-ftp_v1.0_d2025_c20260819.csv.gz",
+        "source_version_or_date": "20260819",
+        "retrieval_timestamp": "2026-10-07T21:28:06Z",
+        "source_file_size": 12585209,
+        "source_sha256": "d9b46b4c6aae554723cadbb9691f3d5258371c02e530ba815d6fe41e4550149f",
+        "retrieval_status": "retrieved_verified"
+      }
+    ]
+  },
+  "census_boundary": {
+    "source_product": "2026 Census TIGER/Line Colorado Counties QA",
+    "source_url": "https://www2.census.gov/geo/tiger/TGRGPKG26/tlgpkg_2026_08_co.gpkg.zip",
+    "source_filename": "tlgpkg_2026_08_co.gpkg.zip",
+    "source_version_or_date": "2026",
+    "retrieval_timestamp": "2026-10-07T21:28:06Z",
+    "source_file_size": 310211112,
+    "source_sha256": "a4a31e5f03135d8541a5e5c7f076af6dde188c4cc59fb7d122c63130ce6ff5bd",
+    "layer": "County",
+    "crs": "EPSG:4269"
+  },
+  "cocorahs": {
+    "source_role": "supplemental ground; independently CC BY 3.0",
+    "official_url": "https://api2.cocorahs.org/api/HailObs",
+    "classification": "USABLE_PARTIAL",
+    "retrieval_timestamp": "2026-10-07T23:01:30Z",
+    "pages": [
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=0&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 997673,
+        "source_sha256": "6f62007daa28c7a280087eca6797c09ebde10a10071cb3e64b075872599e623a",
+        "pagination_offset": 0,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=1000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1012524,
+        "source_sha256": "59eb06e32dd995cb7dd39d406055d0ac4b6b9b1729b6e4084376cc3d187409c5",
+        "pagination_offset": 1000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=2000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 998011,
+        "source_sha256": "1cf1a4fbd080df886b9937926ab7912bf1defc521427ef83b439342440bb4ecd",
+        "pagination_offset": 2000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=3000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 990178,
+        "source_sha256": "f3392474055bcb59fb3d7f45acff7e648725c386c35900e86cc7994d22702f8b",
+        "pagination_offset": 3000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=4000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1016978,
+        "source_sha256": "d2c7ae8a4faf90992f35b2561096c1aa72e8585d048c1607fea25400cc328abf",
+        "pagination_offset": 4000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=5000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1026013,
+        "source_sha256": "7c20dd96bdf7cdcc0a84ff3cf6dc71bea04fc92d220e667fb0c8ea124efb5cfd",
+        "pagination_offset": 5000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=6000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1037021,
+        "source_sha256": "81c4bf9082193e8fdeae19a2ad10b335431015fc5cca88885e64fe8bf59d3428",
+        "pagination_offset": 6000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=7000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 998424,
+        "source_sha256": "43fffe315daa7708f325c6eb029aac34d3bda83a58047137e4081f1b4da2ff7f",
+        "pagination_offset": 7000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=8000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1009272,
+        "source_sha256": "19f438650f0864e32db1ed4512f8c1d44f5d50f3b02faac013c611785f113911",
+        "pagination_offset": 8000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=9000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 999293,
+        "source_sha256": "5ee61d1b00a531fe7b206cf1d6ca96b2a03e1d4d169903289b7450695e60182e",
+        "pagination_offset": 9000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=10000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1012069,
+        "source_sha256": "bbf746bfbfe4b8a69aa2899c2ed590102481169ab39fdbb90162df74e26d8e64",
+        "pagination_offset": 10000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=11000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1000521,
+        "source_sha256": "554afe09636c7f0760a973115d36db6197246c53fb08d5223096eb8cda8139f8",
+        "pagination_offset": 11000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=12000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1009068,
+        "source_sha256": "3e3c58508eadbc3399d54440429ec204788a6ef6bd20e2fde13df6ffcc5d872a",
+        "pagination_offset": 12000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=13000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1001492,
+        "source_sha256": "6f412910d0acc6c01272b46bbe37d8f38c8041b312aa9370b9479f5dbed1d35c",
+        "pagination_offset": 13000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=14000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1010624,
+        "source_sha256": "68244661ae9a2403663a18f2a56bb9ace844c0cf06848050663412ee48fda2c2",
+        "pagination_offset": 14000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=15000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 998589,
+        "source_sha256": "a0d331f7cbddda1e1350c929fbb6083a30740584cd3bc37b2e9484beedb17016",
+        "pagination_offset": 15000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=16000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1143385,
+        "source_sha256": "bf9d2978bc1c26b287da8766488f4d7a2da9b9be894477907e84a2a043ec7ded",
+        "pagination_offset": 16000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=17000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1162309,
+        "source_sha256": "44eed9d66c46331fd4f0e544d8ca9867940ec680664692a5e429fc32e2266691",
+        "pagination_offset": 17000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=18000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1161942,
+        "source_sha256": "c3ef16a69692b28787f625b0626b324eca7ebf25e61a1fe73c30ec331e43ce6f",
+        "pagination_offset": 18000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=19000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1238583,
+        "source_sha256": "431db0c1cc02c68db9b8ed6c3a38e45d6f1810e52acadd0f9550843c912c5dbb",
+        "pagination_offset": 19000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=20000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1124637,
+        "source_sha256": "1978806a125896489828d0958062d9b7ce9801f77657407f7c169f400016e3cb",
+        "pagination_offset": 20000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=21000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1193672,
+        "source_sha256": "115f085516dda1eafc0226a5c2c72b91adc977733e55210aed27d9195124f8d9",
+        "pagination_offset": 21000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=22000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 1000,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 1202285,
+        "source_sha256": "6b8a5394c6e1227e0cbf587620cad3eab5aba0255535c209764b63bc0103a732",
+        "pagination_offset": 22000,
+        "pagination_limit": 1000
+      },
+      {
+        "source_url": "https://api2.cocorahs.org/api/HailObs?offset=23000&limit=1000&startDate=2016-01-01&endDate=2026-01-01&units=ENGLISH",
+        "records_received": 424,
+        "reported_network_total": 23424,
+        "retrieved_bytes": 539002,
+        "source_sha256": "9ae3eb4094470d98f2067f4ad2c5749d7aa834aa02e3bb32b4a3823382821712",
+        "pagination_offset": 23000,
+        "pagination_limit": 1000
+      }
+    ],
+    "notice": "Source API page result counts are full network results, NOT included county observation counts; original raw responses and media excluded."
+  },
+  "spc": {
+    "source_role": "preliminary NWS-derived; not independent by default",
+    "official_url": "https://www.spc.noaa.gov/climo/reports/",
+    "classification": "USABLE_PARTIAL",
+    "retrieval_timestamp": "2026-10-07T23:01:30Z",
+    "known_gap": "2022-02-24 Hail CSV HTTP 502; not filled with guessed data",
+    "artifacts": [
+      {
+        "date": "2016-06-06",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160606_rpts_hail.csv",
+        "retrieved_bytes": 1100,
+        "source_sha256": "17a4702e4fdc16f083276bec60eb2fb834fdaaf45396c892236ea89091807e82",
+        "target_record_count": 1
+      },
+      {
+        "date": "2016-06-17",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160617_rpts_hail.csv",
+        "retrieved_bytes": 9050,
+        "source_sha256": "f733e0bff6c61103f3db2ef4a9937a7d2a621d495c0997d111c3b6a45e7da7b3",
+        "target_record_count": 1
+      },
+      {
+        "date": "2016-06-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160627_rpts_hail.csv",
+        "retrieved_bytes": 3774,
+        "source_sha256": "f575fd7249f55daa13f8e80803232eab0d3f1ea0987340b86721686656623bb1",
+        "target_record_count": 1
+      },
+      {
+        "date": "2016-06-29",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160629_rpts_hail.csv",
+        "retrieved_bytes": 3709,
+        "source_sha256": "fcc9109ba9cd67aaceff5f09c467e6d5c97d24e35a273d1226afb2a6209ae08e",
+        "target_record_count": 1
+      },
+      {
+        "date": "2016-07-17",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160717_rpts_hail.csv",
+        "retrieved_bytes": 2735,
+        "source_sha256": "48d995f261946746a84f10bf088ee13ad1c1a3abbcbb3d1981f7c0ec9613453f",
+        "target_record_count": 3
+      },
+      {
+        "date": "2016-07-18",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160718_rpts_hail.csv",
+        "retrieved_bytes": 3880,
+        "source_sha256": "fc076a9d3d6f89c808f6ea53f5db76d03b40a5c5e09d41b4999ff7515d928fa9",
+        "target_record_count": 2
+      },
+      {
+        "date": "2016-07-24",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160724_rpts_hail.csv",
+        "retrieved_bytes": 853,
+        "source_sha256": "cf079d9cce1c9f1d72fc8951edd713ec0ecee16a7c01782c2a7a43ef2f293074",
+        "target_record_count": 2
+      },
+      {
+        "date": "2016-07-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160727_rpts_hail.csv",
+        "retrieved_bytes": 5017,
+        "source_sha256": "97220612938b928eb3753e347bdb139aa2ab8ac96c055fe3525fe2e5eb03a34d",
+        "target_record_count": 5
+      },
+      {
+        "date": "2016-07-29",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160729_rpts_hail.csv",
+        "retrieved_bytes": 3646,
+        "source_sha256": "df981328d2bf5f939ff486de86982044f619769bd3fcfc5829c5a84348aa874e",
+        "target_record_count": 28
+      },
+      {
+        "date": "2016-08-02",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160802_rpts_hail.csv",
+        "retrieved_bytes": 595,
+        "source_sha256": "c5a46f4f148da345123492afd0a53068d989d900d3b917da6305bbc9159462d3",
+        "target_record_count": 1
+      },
+      {
+        "date": "2016-08-19",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160819_rpts_hail.csv",
+        "retrieved_bytes": 596,
+        "source_sha256": "693ab44ac11ce193fcccdcdee92b202c969295c2a0c9b36a6977368cd31f70e6",
+        "target_record_count": 4
+      },
+      {
+        "date": "2016-09-14",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/160914_rpts_hail.csv",
+        "retrieved_bytes": 1094,
+        "source_sha256": "510987e6006b25cf0d80a7776f2d32967056f4ddaa3dca92bd94e5143ff3e899",
+        "target_record_count": 2
+      },
+      {
+        "date": "2017-05-08",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/170508_rpts_hail.csv",
+        "retrieved_bytes": 3489,
+        "source_sha256": "7d66ab92568bfef44aeeca1e40a6a8c8a041f8ef78b7345d86a1cf857febc651",
+        "target_record_count": 3
+      },
+      {
+        "date": "2017-05-31",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/170531_rpts_hail.csv",
+        "retrieved_bytes": 8907,
+        "source_sha256": "09236b788ad5ebf1b4b1bb59658fa0dab1b64dceaf3d5ae9dfbcca91666a77d1",
+        "target_record_count": 3
+      },
+      {
+        "date": "2017-06-12",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/170612_rpts_hail.csv",
+        "retrieved_bytes": 9149,
+        "source_sha256": "b212f0003dc3656c299e3f4ce21a46cfd907ac53a6f25fd44fff172c25afa6ed",
+        "target_record_count": 21
+      },
+      {
+        "date": "2017-08-10",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/170810_rpts_hail.csv",
+        "retrieved_bytes": 5002,
+        "source_sha256": "f48e9b3a8edbb8b7cd0f01d6d769ce6924f98619d4f38c1670bc224406277786",
+        "target_record_count": 2
+      },
+      {
+        "date": "2018-04-30",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180430_rpts_hail.csv",
+        "retrieved_bytes": 2266,
+        "source_sha256": "19a7d02cc78e185b6e7bced5731af5807107c1d23ba88eb10e1d044ccb1bf9a6",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-05-01",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180501_rpts_hail.csv",
+        "retrieved_bytes": 9157,
+        "source_sha256": "dfa6b2557e853dc9464e76a679d30b56a871be12634c321fb3fc66829f92dda2",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-05-22",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180522_rpts_hail.csv",
+        "retrieved_bytes": 2377,
+        "source_sha256": "f0f95976f1a0f3cd1aea21188e1fdc428950459ccd6c3cadfa2ca68999e84ee5",
+        "target_record_count": 3
+      },
+      {
+        "date": "2018-05-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180527_rpts_hail.csv",
+        "retrieved_bytes": 7395,
+        "source_sha256": "7fd772d03965104158dd7ec9b254058a0dd451bd23a1a38f7475e59662232357",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-06-06",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180606_rpts_hail.csv",
+        "retrieved_bytes": 6547,
+        "source_sha256": "e252cbd64afa6503326ee09dfe2c796215866bbb80503c5d14dac7cd9ccee2d9",
+        "target_record_count": 3
+      },
+      {
+        "date": "2018-06-16",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180616_rpts_hail.csv",
+        "retrieved_bytes": 2403,
+        "source_sha256": "f30b70c7e53a94aa8f7a6b7a1a2e3b41548ccf80a26d19ade00312bb4203d3e9",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-06-18",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180618_rpts_hail.csv",
+        "retrieved_bytes": 4063,
+        "source_sha256": "24335f7050b02568c9aaadd00982a020c5fd9cf72a6045916fe4b4c69574aac9",
+        "target_record_count": 13
+      },
+      {
+        "date": "2018-06-19",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180619_rpts_hail.csv",
+        "retrieved_bytes": 9386,
+        "source_sha256": "25115c73e858e7ada385cd2147fc63185690fed942ffaaaa5771fa031b8d874c",
+        "target_record_count": 22
+      },
+      {
+        "date": "2018-06-24",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180624_rpts_hail.csv",
+        "retrieved_bytes": 2804,
+        "source_sha256": "dc8d9ac22f27102d3840a7cb2995b8c0c0f0d371b1339cdd878977edcfc07563",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-06-30",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180630_rpts_hail.csv",
+        "retrieved_bytes": 4899,
+        "source_sha256": "47cd5ce3dfa04e2f83e20c27fb0abb67757648047b88d07dfac3fa7c8a5b9f2f",
+        "target_record_count": 3
+      },
+      {
+        "date": "2018-07-04",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180704_rpts_hail.csv",
+        "retrieved_bytes": 729,
+        "source_sha256": "828ef2497904656c4ec8d9c0c2485aa359373e68f8c64025642d611c3d824e5c",
+        "target_record_count": 2
+      },
+      {
+        "date": "2018-07-16",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180716_rpts_hail.csv",
+        "retrieved_bytes": 1216,
+        "source_sha256": "3fa9974035e2fe86c8fe7893a861b820e9ae9f149c8c15e4ccf5653110b23206",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-07-21",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180721_rpts_hail.csv",
+        "retrieved_bytes": 9132,
+        "source_sha256": "3fe8531925d004c1e5b655d113da659ff4aa403f7326b4a8d034701418bf8b51",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-07-24",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180724_rpts_hail.csv",
+        "retrieved_bytes": 1469,
+        "source_sha256": "ed059e31502f427688f949f8ec8ef9013ef005a67f90913c582ece8a621755db",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-07-26",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180726_rpts_hail.csv",
+        "retrieved_bytes": 6222,
+        "source_sha256": "51b4e8f9373f07aa7396245bb6075f0b061aa4bf843804ac7cbe21090faf4dc7",
+        "target_record_count": 2
+      },
+      {
+        "date": "2018-07-29",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180729_rpts_hail.csv",
+        "retrieved_bytes": 7978,
+        "source_sha256": "b460bbd16d4b7d543c49ccf9059de1ea7e163601f479f9640a8355898b53eee4",
+        "target_record_count": 18
+      },
+      {
+        "date": "2018-08-06",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180806_rpts_hail.csv",
+        "retrieved_bytes": 7459,
+        "source_sha256": "cda29091f781a3369d23df4848908ab93bcbef3e2af7779ea179ea140d4456b1",
+        "target_record_count": 5
+      },
+      {
+        "date": "2018-08-07",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180807_rpts_hail.csv",
+        "retrieved_bytes": 2944,
+        "source_sha256": "24cb801dab8632533086c2cc5415767c7319692eff32015a9743c7310a4e44af",
+        "target_record_count": 7
+      },
+      {
+        "date": "2018-08-08",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180808_rpts_hail.csv",
+        "retrieved_bytes": 1680,
+        "source_sha256": "4ccb14e01d847f91418098c8820e8925777ff4bec31554b3a6905b1db4154cff",
+        "target_record_count": 1
+      },
+      {
+        "date": "2018-08-14",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/180814_rpts_hail.csv",
+        "retrieved_bytes": 1992,
+        "source_sha256": "804ecb8a64c8bd28413e9a3c1933559c7ed09622a00e21b31c2418ddbc0d673d",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-05-17",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190517_rpts_hail.csv",
+        "retrieved_bytes": 7863,
+        "source_sha256": "204da98c33ca52604663c2662c36e0263b9938cbce2fcbf0ac1198192ac01098",
+        "target_record_count": 5
+      },
+      {
+        "date": "2019-05-26",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190526_rpts_hail.csv",
+        "retrieved_bytes": 7682,
+        "source_sha256": "b5deef7b90e98517143047478b3921adc6ec856fde73f48acc960492256bb930",
+        "target_record_count": 5
+      },
+      {
+        "date": "2019-05-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190527_rpts_hail.csv",
+        "retrieved_bytes": 9681,
+        "source_sha256": "cca34581a53f6773da164e1d63903a9a6fb945495bc7df718c2647f703f41efd",
+        "target_record_count": 2
+      },
+      {
+        "date": "2019-06-07",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190607_rpts_hail.csv",
+        "retrieved_bytes": 2517,
+        "source_sha256": "3ac114d506ce79181d0d7396b7ebaf420c58a5ba60c15f67e11ccb249d7661ba",
+        "target_record_count": 2
+      },
+      {
+        "date": "2019-06-08",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190608_rpts_hail.csv",
+        "retrieved_bytes": 6024,
+        "source_sha256": "eea12772203c82840a78944e7c5fbdb9e38b8b8d18aa8dd0fc6fcb35bee0fce2",
+        "target_record_count": 3
+      },
+      {
+        "date": "2019-06-16",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190616_rpts_hail.csv",
+        "retrieved_bytes": 4882,
+        "source_sha256": "2a5876723d43a42ce5f3d2acbdb4f1d58a0513d3b5aae18e383655766d787a26",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-06-20",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190620_rpts_hail.csv",
+        "retrieved_bytes": 2521,
+        "source_sha256": "7cbc327a692541d4dd39bf2b24242549669da87005ddcb59a4d2b70fdf458ca0",
+        "target_record_count": 2
+      },
+      {
+        "date": "2019-07-01",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190701_rpts_hail.csv",
+        "retrieved_bytes": 3723,
+        "source_sha256": "4755975a050fdc648dbcbc0f902875803aac10bff9d458c92d2717ebdb3d2f29",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-07-04",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190704_rpts_hail.csv",
+        "retrieved_bytes": 5794,
+        "source_sha256": "0de4c31ccde78a66696b9730d96d202a2b0c82bb505f828b59e55438dc6f6ffc",
+        "target_record_count": 3
+      },
+      {
+        "date": "2019-07-05",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190705_rpts_hail.csv",
+        "retrieved_bytes": 7604,
+        "source_sha256": "bb1a5248b4b761044ad04c79021d5d30a6472c0e1d34fb9d1c073d08188e0dce",
+        "target_record_count": 19
+      },
+      {
+        "date": "2019-07-08",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190708_rpts_hail.csv",
+        "retrieved_bytes": 3473,
+        "source_sha256": "8e2c7fc6759e399755e7b2b55163e85c776a9359b55abdbbe8a8da829f5116a8",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-07-15",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190715_rpts_hail.csv",
+        "retrieved_bytes": 2421,
+        "source_sha256": "17675cb65c9ccd65d02c8c97496ef2adce14fdb8e07ce15653592d02e8623a6f",
+        "target_record_count": 3
+      },
+      {
+        "date": "2019-07-22",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190722_rpts_hail.csv",
+        "retrieved_bytes": 921,
+        "source_sha256": "1cc66d196aa3ea10388dc02a42439497a998468c48eb0752414a931962d54d98",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-08-01",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190801_rpts_hail.csv",
+        "retrieved_bytes": 2530,
+        "source_sha256": "77000e04ca17fdfa87749505eedf79b64b2077fdc87aa48ba426e01ea2c4da9d",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-08-13",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190813_rpts_hail.csv",
+        "retrieved_bytes": 5731,
+        "source_sha256": "3083c2c64f400783fe1ca5b5d7505f7e20cab9c3051351b053fffbbede0b60a2",
+        "target_record_count": 9
+      },
+      {
+        "date": "2019-08-20",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190820_rpts_hail.csv",
+        "retrieved_bytes": 2748,
+        "source_sha256": "39014f11cea6b5c0751c31f51a10829a749d427c8ae363edcbb4851e5b885ec9",
+        "target_record_count": 7
+      },
+      {
+        "date": "2019-08-22",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190822_rpts_hail.csv",
+        "retrieved_bytes": 1693,
+        "source_sha256": "7533317de49b2d1fff06e94c630f9926e922253793f790275d9ea9694c201a48",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-08-23",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190823_rpts_hail.csv",
+        "retrieved_bytes": 1857,
+        "source_sha256": "a7e8ae8e53d9530536c8b361a26c98a750be22a4e48cf4b3ca590e19daee1e9e",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-08-31",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190831_rpts_hail.csv",
+        "retrieved_bytes": 1377,
+        "source_sha256": "1e866a9cca0e3a533877f64c061f76b838886a7a4003fd973e5a223fdebad326",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-09-09",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190909_rpts_hail.csv",
+        "retrieved_bytes": 2842,
+        "source_sha256": "9b99a0eb92f359e92adf20d3b220796805fbd845be11baae09f84b63b3e41821",
+        "target_record_count": 1
+      },
+      {
+        "date": "2019-09-10",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190910_rpts_hail.csv",
+        "retrieved_bytes": 3783,
+        "source_sha256": "fcbfcb88cf388dd5263c10f43520f242a25b75a3b1c5bc02455c98c19e81d973",
+        "target_record_count": 9
+      },
+      {
+        "date": "2019-09-11",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190911_rpts_hail.csv",
+        "retrieved_bytes": 4989,
+        "source_sha256": "14d3207ff62a24a8d27c7e8c765772c6982a060d123b9dce916d9ebabbc05115",
+        "target_record_count": 18
+      },
+      {
+        "date": "2019-09-12",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/190912_rpts_hail.csv",
+        "retrieved_bytes": 398,
+        "source_sha256": "83f32148fd4c590de4b0c0586d0894b00081fe9412a2b19709d28e60102f45be",
+        "target_record_count": 1
+      },
+      {
+        "date": "2020-05-15",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/200515_rpts_hail.csv",
+        "retrieved_bytes": 3232,
+        "source_sha256": "ec6135440da26a944678cc8846aa5a3d0a8816831223b6cddcb05993c1023645",
+        "target_record_count": 2
+      },
+      {
+        "date": "2020-05-20",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/200520_rpts_hail.csv",
+        "retrieved_bytes": 4027,
+        "source_sha256": "2b5f004a4a28fcc6b6434dca69e814f5363bbf753e1047335d25393f7b25c060",
+        "target_record_count": 2
+      },
+      {
+        "date": "2020-06-08",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/200608_rpts_hail.csv",
+        "retrieved_bytes": 4149,
+        "source_sha256": "36dcc1dd86995061c5efe70dad5a944405d5774db7b0b9b4a832f541ffa9d28d",
+        "target_record_count": 1
+      },
+      {
+        "date": "2020-07-09",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/200709_rpts_hail.csv",
+        "retrieved_bytes": 4099,
+        "source_sha256": "352353256cf72710cb22c10fe96689e2022cd62fa716e552aa353c8978e62b48",
+        "target_record_count": 2
+      },
+      {
+        "date": "2020-07-20",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/200720_rpts_hail.csv",
+        "retrieved_bytes": 3952,
+        "source_sha256": "115e4510d2f12e30e716123252337e8759080e8c8f446bb73b804c2ea0d70195",
+        "target_record_count": 3
+      },
+      {
+        "date": "2020-08-01",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/200801_rpts_hail.csv",
+        "retrieved_bytes": 1143,
+        "source_sha256": "0619ab58d4c723861f8a792b3d68bfccc03ef4aeec9817c78acb5382c4543bcf",
+        "target_record_count": 4
+      },
+      {
+        "date": "2020-08-04",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/200804_rpts_hail.csv",
+        "retrieved_bytes": 4607,
+        "source_sha256": "f70e0936d94ae42cf61333e41cd48dcdb93dfabe9abdba5256be7280cdcc1dee",
+        "target_record_count": 22
+      },
+      {
+        "date": "2021-05-20",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210520_rpts_hail.csv",
+        "retrieved_bytes": 930,
+        "source_sha256": "18710905bae76937ed5a3b6833cf44d21d38282f1e9d8b700e809a6b8563a7ba",
+        "target_record_count": 5
+      },
+      {
+        "date": "2021-05-26",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210526_rpts_hail.csv",
+        "retrieved_bytes": 10451,
+        "source_sha256": "b825a411d9a3952ff42daf9bad680a2acd42a8a6addb542cbb6adf8475feeeca",
+        "target_record_count": 1
+      },
+      {
+        "date": "2021-06-13",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210613_rpts_hail.csv",
+        "retrieved_bytes": 5235,
+        "source_sha256": "5333baea8df9b29f07957f215dd0b53db9076c405921a8a84ae2fbd2b684a443",
+        "target_record_count": 6
+      },
+      {
+        "date": "2021-06-19",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210619_rpts_hail.csv",
+        "retrieved_bytes": 2647,
+        "source_sha256": "76d903ae21477c106a823954f2f70032cac858fcdf33a0a6451a9600a0c92db6",
+        "target_record_count": 1
+      },
+      {
+        "date": "2021-07-01",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210701_rpts_hail.csv",
+        "retrieved_bytes": 927,
+        "source_sha256": "e606b0bed513190b3c614a9de6d3c654e264e37aa83e0496a911f49fc0b1de0a",
+        "target_record_count": 2
+      },
+      {
+        "date": "2021-07-09",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210709_rpts_hail.csv",
+        "retrieved_bytes": 9066,
+        "source_sha256": "4643949b7facf949c7cd9bc59cb3f9b8b6c1e6eb34d7a03c2e51ee96f05b6765",
+        "target_record_count": 1
+      },
+      {
+        "date": "2021-07-30",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210730_rpts_hail.csv",
+        "retrieved_bytes": 643,
+        "source_sha256": "b3b816c52fb842d436bb77b53ebc7e31995b8b437b23b882e216f46f9f69aaf5",
+        "target_record_count": 2
+      },
+      {
+        "date": "2021-08-19",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/210819_rpts_hail.csv",
+        "retrieved_bytes": 2359,
+        "source_sha256": "f8ba106b283a2ec435808b897c5944114438681c5565f3c57be226c54a35626a",
+        "target_record_count": 1
+      },
+      {
+        "date": "2022-06-16",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/220616_rpts_hail.csv",
+        "retrieved_bytes": 8203,
+        "source_sha256": "40e2b5ae100ab4aba7ed35571db893212b1c234bb0984d5a5505981ceefda555",
+        "target_record_count": 5
+      },
+      {
+        "date": "2022-07-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/220727_rpts_hail.csv",
+        "retrieved_bytes": 5678,
+        "source_sha256": "2ec0972d8893f77a5614a43c8e6d79b569dab237f5b5d16834a04ea162d809f4",
+        "target_record_count": 20
+      },
+      {
+        "date": "2022-10-01",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/221001_rpts_hail.csv",
+        "retrieved_bytes": 580,
+        "source_sha256": "d197d25b35b10426f1391d247982af40ba730b1fa1471487e3f91e5fa72ee14e",
+        "target_record_count": 4
+      },
+      {
+        "date": "2023-05-09",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230509_rpts_hail.csv",
+        "retrieved_bytes": 15931,
+        "source_sha256": "a7015ea32cfe71ebd04080d5ea50f7981b48cd2792fe88e39f13b33a4cfd689d",
+        "target_record_count": 11
+      },
+      {
+        "date": "2023-05-26",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230526_rpts_hail.csv",
+        "retrieved_bytes": 5015,
+        "source_sha256": "f077484a714fe34ff8bdd1e0bae81355ff833e40b543b31c50e71f8c137a7def",
+        "target_record_count": 3
+      },
+      {
+        "date": "2023-05-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230527_rpts_hail.csv",
+        "retrieved_bytes": 2321,
+        "source_sha256": "538fb4394797f2e26e1b8d27e0b566e471ad83f67dd7f90dcd1b79d680a2bbe3",
+        "target_record_count": 5
+      },
+      {
+        "date": "2023-05-28",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230528_rpts_hail.csv",
+        "retrieved_bytes": 3813,
+        "source_sha256": "156b806dd83254d89864df979bf10ed0aea1bb15c3c6bfdfb681dcbe4fd44410",
+        "target_record_count": 6
+      },
+      {
+        "date": "2023-05-29",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230529_rpts_hail.csv",
+        "retrieved_bytes": 2494,
+        "source_sha256": "ad54923e8b263b858a12ba1e404c37c172a1c2a366e9d5bc4acc02acac1f2536",
+        "target_record_count": 1
+      },
+      {
+        "date": "2023-05-31",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230531_rpts_hail.csv",
+        "retrieved_bytes": 1891,
+        "source_sha256": "964f54cba3ed674f00ced8ceec02420a8b8fee70a35b80a1303aa479a91da195",
+        "target_record_count": 2
+      },
+      {
+        "date": "2023-06-11",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230611_rpts_hail.csv",
+        "retrieved_bytes": 22229,
+        "source_sha256": "b1a6523f5e5a093948e7fb2abe426dbdc053018928b583336106ae66277d9707",
+        "target_record_count": 1
+      },
+      {
+        "date": "2023-06-21",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230621_rpts_hail.csv",
+        "retrieved_bytes": 10723,
+        "source_sha256": "c956140baf3c355a37d6a05f850549638135fa1eea9cde076b219738cdadb888",
+        "target_record_count": 4
+      },
+      {
+        "date": "2023-06-28",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230628_rpts_hail.csv",
+        "retrieved_bytes": 13537,
+        "source_sha256": "5cb079a6fb56b5c06f6d6b797c6edfcbf31b5cbac4ce9609c6142fd59e8327b4",
+        "target_record_count": 4
+      },
+      {
+        "date": "2023-07-08",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230708_rpts_hail.csv",
+        "retrieved_bytes": 7752,
+        "source_sha256": "885ddbbf71b8086a4c34c1830e59dff31db2dbb8c4711659863dd0db19887436",
+        "target_record_count": 2
+      },
+      {
+        "date": "2023-07-13",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230713_rpts_hail.csv",
+        "retrieved_bytes": 16422,
+        "source_sha256": "3c4c95ed5a375b5b2619f0d238a76d1b4957b32a8cd906b77b282d7b8c3f3ffa",
+        "target_record_count": 5
+      },
+      {
+        "date": "2023-07-15",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230715_rpts_hail.csv",
+        "retrieved_bytes": 2315,
+        "source_sha256": "6b4acf7aaf94e8edf7d945554eef54a376a2c46ff12021604c1e734c646defc2",
+        "target_record_count": 1
+      },
+      {
+        "date": "2023-07-21",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230721_rpts_hail.csv",
+        "retrieved_bytes": 1356,
+        "source_sha256": "8b094e531926992a1340f7e980f81812adefe3435aa90fd824595e1150889a5b",
+        "target_record_count": 3
+      },
+      {
+        "date": "2023-07-31",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230731_rpts_hail.csv",
+        "retrieved_bytes": 2113,
+        "source_sha256": "670939fa1279589c330f498c8a757c215d24effa4a39478812c1e583f2a16f24",
+        "target_record_count": 2
+      },
+      {
+        "date": "2023-08-03",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230803_rpts_hail.csv",
+        "retrieved_bytes": 3129,
+        "source_sha256": "2c732f1534d7a4536cb9590d93a4d37f84c33081aad819516819ec27f7734d67",
+        "target_record_count": 8
+      },
+      {
+        "date": "2023-08-05",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230805_rpts_hail.csv",
+        "retrieved_bytes": 7960,
+        "source_sha256": "d1d2953408a887c30c54c05343bd25cae1b5d1ae8a7945dfc8047ea5d21e0d29",
+        "target_record_count": 2
+      },
+      {
+        "date": "2023-08-06",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230806_rpts_hail.csv",
+        "retrieved_bytes": 2816,
+        "source_sha256": "39449fc5a559ba2367670aabc1af4bf5c0881481ad0b46521face001f498df29",
+        "target_record_count": 1
+      },
+      {
+        "date": "2023-08-07",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230807_rpts_hail.csv",
+        "retrieved_bytes": 18752,
+        "source_sha256": "9cfbd47f7c895b8305000e5d96ed55a36caa3af1054ed988655afe20642974f9",
+        "target_record_count": 1
+      },
+      {
+        "date": "2023-08-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/230827_rpts_hail.csv",
+        "retrieved_bytes": 965,
+        "source_sha256": "0db6ff6a28bafb3718afe68449f186411fb6b6da345aaf660e5d7ac7bee3cd09",
+        "target_record_count": 3
+      },
+      {
+        "date": "2024-05-25",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240525_rpts_hail.csv",
+        "retrieved_bytes": 15104,
+        "source_sha256": "44d1c6ce0730271d9deb2e5125a46c8cce840e6d8f1acc42d9c9226754ee0113",
+        "target_record_count": 1
+      },
+      {
+        "date": "2024-05-28",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240528_rpts_hail.csv",
+        "retrieved_bytes": 11228,
+        "source_sha256": "1a5beaf1b31e34e6e0e1e5152878b1f649b47502468eac73bfa6f3ca5f640980",
+        "target_record_count": 10
+      },
+      {
+        "date": "2024-05-30",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240530_rpts_hail.csv",
+        "retrieved_bytes": 14322,
+        "source_sha256": "e23500a1597595d3bdb389f1d6a879f2de92a5dd741152c62cfe9b8b63143d30",
+        "target_record_count": 4
+      },
+      {
+        "date": "2024-06-09",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240609_rpts_hail.csv",
+        "retrieved_bytes": 3844,
+        "source_sha256": "8f08af41174076ea13acdd26613392b8fb461d73d71c0933365e06f2c9979810",
+        "target_record_count": 1
+      },
+      {
+        "date": "2024-06-21",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240621_rpts_hail.csv",
+        "retrieved_bytes": 3459,
+        "source_sha256": "759f27d50b83f7a4813d4f4afa5a58c5951ad406bfa1ededa6f044ec512f8bc2",
+        "target_record_count": 4
+      },
+      {
+        "date": "2024-07-20",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240720_rpts_hail.csv",
+        "retrieved_bytes": 1284,
+        "source_sha256": "167b39f9aa1fedaf85d8bdc78a53d125f9e7e07e34969c91dda792c2df11136d",
+        "target_record_count": 9
+      },
+      {
+        "date": "2024-08-07",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240807_rpts_hail.csv",
+        "retrieved_bytes": 1088,
+        "source_sha256": "9fee4d428cbfcc078f0d195587defba0dcf6b318532b6fcc4c34c908b0280572",
+        "target_record_count": 1
+      },
+      {
+        "date": "2024-08-12",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240812_rpts_hail.csv",
+        "retrieved_bytes": 1090,
+        "source_sha256": "7623d8ec38755b6fc1f7e71b18530c1dbc7fd16374d474341b6861622eefa8b2",
+        "target_record_count": 2
+      },
+      {
+        "date": "2024-09-15",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/240915_rpts_hail.csv",
+        "retrieved_bytes": 1405,
+        "source_sha256": "0e2b5e28cdc4b635edfa04b902d03d34d8bdeac37127a3b96db76748801edfb2",
+        "target_record_count": 1
+      },
+      {
+        "date": "2025-04-24",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250424_rpts_hail.csv",
+        "retrieved_bytes": 6572,
+        "source_sha256": "2146b92188b1f66b8fc28d8a2b52a491aab626081aa23d8e0167c8dc4e2ed473",
+        "target_record_count": 3
+      },
+      {
+        "date": "2025-05-14",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250514_rpts_hail.csv",
+        "retrieved_bytes": 3125,
+        "source_sha256": "a287c9a657f1d9a0c1737e9d032572b9096476fff8a11faa698c46d6807a89c3",
+        "target_record_count": 4
+      },
+      {
+        "date": "2025-05-22",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250522_rpts_hail.csv",
+        "retrieved_bytes": 7473,
+        "source_sha256": "4f252740981110d050e205298b9f835a4e36860c75700aa8105633891e2b4a02",
+        "target_record_count": 1
+      },
+      {
+        "date": "2025-05-23",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250523_rpts_hail.csv",
+        "retrieved_bytes": 6659,
+        "source_sha256": "72ecc073102b67c27d70a5c4395ef3b9fe2b6da68c964e6c698c433f9a6e9b79",
+        "target_record_count": 4
+      },
+      {
+        "date": "2025-05-27",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250527_rpts_hail.csv",
+        "retrieved_bytes": 599,
+        "source_sha256": "a92ac26f578da72403695e7ee1a9123a69a3ca40e515c046ca6e6717b5fc10ca",
+        "target_record_count": 1
+      },
+      {
+        "date": "2025-06-02",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250602_rpts_hail.csv",
+        "retrieved_bytes": 3317,
+        "source_sha256": "04e6adbab4ff525dfc512dc3b7e1505e236b9b889d5545e5afc0b6e36bd2dae0",
+        "target_record_count": 2
+      },
+      {
+        "date": "2025-06-16",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250616_rpts_hail.csv",
+        "retrieved_bytes": 8328,
+        "source_sha256": "1ad5f91bccf44278aadbb3b2246227d6aa74fa216c7b1303d7ab0cc6b1938cb0",
+        "target_record_count": 16
+      },
+      {
+        "date": "2025-06-17",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250617_rpts_hail.csv",
+        "retrieved_bytes": 7600,
+        "source_sha256": "1019f679a88a471daed30395ed3c572e93f06458ce343588fa5de8ce70772b14",
+        "target_record_count": 2
+      },
+      {
+        "date": "2025-06-25",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250625_rpts_hail.csv",
+        "retrieved_bytes": 5474,
+        "source_sha256": "6275fead3edab5383215167b4ec893f72773a2f0d464b1ee23d29039d0836fc7",
+        "target_record_count": 2
+      },
+      {
+        "date": "2025-06-29",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250629_rpts_hail.csv",
+        "retrieved_bytes": 4167,
+        "source_sha256": "3bbd896ad23d5753a1dae996f1aa856a8d86da5644bebe95bc90c063a25ccd16",
+        "target_record_count": 3
+      },
+      {
+        "date": "2025-07-06",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250706_rpts_hail.csv",
+        "retrieved_bytes": 5844,
+        "source_sha256": "b9b12938237560652396b7076dc2812a436835f53309d8e24584cfe6184a96eb",
+        "target_record_count": 1
+      },
+      {
+        "date": "2025-07-11",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250711_rpts_hail.csv",
+        "retrieved_bytes": 3872,
+        "source_sha256": "401afe0af48bcee6c18dc480373893c538bb85be6d7deca0138e5c04fbbb8eb2",
+        "target_record_count": 4
+      },
+      {
+        "date": "2025-07-24",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250724_rpts_hail.csv",
+        "retrieved_bytes": 1079,
+        "source_sha256": "c1763772dc52bc8873e52cdedc1fc1f1afa73e39883c63a2ead19c93d3210fdc",
+        "target_record_count": 6
+      },
+      {
+        "date": "2025-07-31",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250731_rpts_hail.csv",
+        "retrieved_bytes": 1026,
+        "source_sha256": "d3bc90fb26ce445f13b29f0c68cbdc0a35106735349cc31a35e57bf8d17e5cc6",
+        "target_record_count": 3
+      },
+      {
+        "date": "2025-08-01",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250801_rpts_hail.csv",
+        "retrieved_bytes": 1877,
+        "source_sha256": "e1bc0e2cdc7097516ecd19e1055023770353bf6dafa83122c32b9871b8f32fb4",
+        "target_record_count": 2
+      },
+      {
+        "date": "2025-08-10",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250810_rpts_hail.csv",
+        "retrieved_bytes": 1947,
+        "source_sha256": "8026fc8d7fc04da242fb61c00a12a7e2dde23754255ae63ffb162e2b3c96fb23",
+        "target_record_count": 1
+      },
+      {
+        "date": "2025-09-11",
+        "source_url": "https://www.spc.noaa.gov/climo/reports/250911_rpts_hail.csv",
+        "retrieved_bytes": 2666,
+        "source_sha256": "5cd4c1da979761a641dd93d8154894d8a2ec284eddbbf9f10a4a81cb26bb5a21",
+        "target_record_count": 4
+      }
+    ]
+  },
+  "mrms_mesh": {
+    "source_role": "radar-only context",
+    "official_url": "https://noaa-mrms-pds.s3.amazonaws.com/CONUS/MESH_00.50/",
+    "product": "CONUS/MESH_00.50",
+    "archive_start": "2020-10-14",
+    "retrieval_timestamp": "2026-10-07T23:01:30Z",
+    "archive_listing_pages": [
+      {
+        "retrieved_bytes": 76411,
+        "listing_page_sha256": "ed7ec05ed8141ac13800fefa688585be63dcad940db2a3263a1b8456d117076b",
+        "prefix_count": 1000
+      },
+      {
+        "retrieved_bytes": 76527,
+        "listing_page_sha256": "ce6e4e3a5201bb46c2156f002cff7be66b192243349eb555990ec974e699d49b",
+        "prefix_count": 1000
+      },
+      {
+        "retrieved_bytes": 14463,
+        "listing_page_sha256": "3eb046d8c0a9d48ee931690eb7185a91e8b6d889840ee7648627ba2b28216d6a",
+        "prefix_count": 185
+      }
+    ],
+    "notice": "Pagination tokens from cloud listing intentionally omitted; official product prefix linked"
+  },
+  "nws_lsr": {
+    "source_role": "REFERENCE_ONLY, original decade source archive incomplete",
+    "official_url": "https://mapservices.weather.noaa.gov/vector/rest/services/obs/nws_local_storm_reports/MapServer",
+    "source_checksum": null
+  },
+  "mping": {
+    "source_role": "NOT_USED, no raw data acquired/redistributed",
+    "source_url": null,
+    "source_checksum": null
+  },
+  "source_rights": "Underlying NOAA government records and CoCoRaHS CC BY 3.0 independently credited; no dataset publisher ownership of raw source facts."
+}

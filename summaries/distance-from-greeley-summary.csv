@@ -1,0 +1,8 @@
+distance_bin,observations
+0_5,168
+gt5_10,109
+gt10_15,130
+gt15_20,156
+gt20_25,501
+outside_25,780
+not_calculable,0

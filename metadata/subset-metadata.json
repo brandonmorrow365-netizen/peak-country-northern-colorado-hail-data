@@ -1,0 +1,21 @@
+{
+  "subsets": [
+    {
+      "scope": "master",
+      "observations": 1844
+    },
+    {
+      "scope": "weld",
+      "observations": 773
+    },
+    {
+      "scope": "larimer",
+      "observations": 1071
+    },
+    {
+      "scope": "greeley_25mi",
+      "observations": 1064
+    }
+  ],
+  "Greeley": "25-mile WGS84 geodesic from neutral Lincoln Park reference point"
+}

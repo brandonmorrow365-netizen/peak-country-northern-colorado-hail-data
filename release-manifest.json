@@ -1,0 +1,118 @@
+{
+  "dataset_title": "Peak Country Northern Colorado Hail History Dataset, 2016–2025",
+  "dataset_version": "1.0.0",
+  "methodology_version": "1.0.0",
+  "release_state": "PUBLISHED_GITHUB_V1.0.0",
+  "release_date": "2026-10-11",
+  "publication_date": "2026-10-11",
+  "doi": null,
+  "public_repository_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data",
+  "release_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "tag_name": "v1.0.0",
+  "publisher": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+  "publisher_website": "https://peakcountryhail.com/",
+  "temporal_coverage": {
+    "start": "2016-01-01",
+    "end": "2025-12-31"
+  },
+  "geographic_coverage": [
+    "Weld County, Colorado",
+    "Larimer County, Colorado",
+    "Greeley neutral geodesic 25-mile reference subset"
+  ],
+  "counts": {
+    "master_observations": 1844,
+    "public_fields": 34,
+    "event_groups": 1119,
+    "unique_hail_days": 398,
+    "weld_county_observations": 773,
+    "larimer_county_observations": 1071,
+    "greeley_25_mile_observations": 1064
+  },
+  "master_formats": [
+    "data/northern-colorado-hail-history-2016-2025.csv",
+    "data/northern-colorado-hail-history-2016-2025.json",
+    "data/northern-colorado-hail-history-2016-2025.geojson",
+    "data/northern-colorado-hail-history-2016-2025.parquet"
+  ],
+  "data_package_resource_count": 17,
+  "data_package_resources": [
+    "data/northern-colorado-hail-history-2016-2025.csv",
+    "data/subsets/weld-county-hail-history.csv",
+    "data/subsets/larimer-county-hail-history.csv",
+    "data/subsets/greeley-25-mile-hail-history.csv",
+    "data/event-group-membership.csv",
+    "summaries/annual-summary.csv",
+    "summaries/monthly-climatology.csv",
+    "summaries/county-summary.csv",
+    "summaries/community-summary.csv",
+    "summaries/hail-size-summary.csv",
+    "summaries/hail-day-summary.csv",
+    "summaries/distance-from-greeley-summary.csv",
+    "summaries/source-corroboration-summary.csv",
+    "summaries/event-group-summary.csv",
+    "data/northern-colorado-hail-history-2016-2025.json",
+    "data/northern-colorado-hail-history-2016-2025.geojson",
+    "data/northern-colorado-hail-history-2016-2025.parquet"
+  ],
+  "scientific_identity": "All four master formats represent the same 1,844 observation identities and 34 public fields; subsets, summaries and figures are derived representations, not additional observations.",
+  "license_scope": {
+    "database": "ODC-By 1.0 applies only to protectable Peak Country compilation/database rights, if any",
+    "content": "CC BY 4.0 applies only to protectable Peak Country-original expression, if any",
+    "source": "CoCoRaHS CC BY 3.0 is independently preserved; U.S. federal facts remain public domain; other third-party rights are not conveyed",
+    "trademarks": "Peak Country names, logos and brand identifiers are reserved"
+  },
+  "known_limitations": [
+    "Observations are not unique storms or proof of individual property damage",
+    "MRMS is unavailable for 2016–2019 and partial from 2020-10-14",
+    "The release does not establish a climate trend or normalized risk",
+    "NWS original archive coverage is incomplete and the SPC 2022-02-24 retrieval has a documented gap"
+  ],
+  "source_manifest": "sources/source-manifest.json",
+  "source_retrieval_details": "sources/source-retrieval-details.json",
+  "package_file_count": 81,
+  "checksum_manifests": [
+    {
+      "path": "SHA256SUMS.txt",
+      "scope": "All public files except SHA256SUMS.txt and release-manifest.json; includes the finalized CHECKSUMS.sha256 file",
+      "record_count": 79
+    },
+    {
+      "path": "CHECKSUMS.sha256",
+      "scope": "Core data, summaries, figures and machine-readable artifacts",
+      "record_count": 37
+    }
+  ],
+  "checksum_exclusions": [
+    "SHA256SUMS.txt excludes itself",
+    "release-manifest.json is excluded from SHA256SUMS.txt to avoid a circular release-manifest hash dependency"
+  ],
+  "citation": {
+    "status": "PUBLISHED_NO_DOI",
+    "cff_version": "1.2.0",
+    "files": [
+      "CITATION.cff",
+      "CITATION.txt",
+      "CITATION_APA.txt",
+      "CITATION.bib",
+      "CITATION.ris",
+      "CITE_THIS_DATASET.md",
+      "metadata/citation-metadata.json"
+    ]
+  },
+  "publication_validation": {
+    "status": "PASS",
+    "validated_at": "2026-10-11T17:40:35Z",
+    "checks": [
+      "81-file public-root layout and prohibited-path exclusions",
+      "1,844 unique observation identities and 34 public fields",
+      "CSV, JSON, GeoJSON and Parquet semantic equivalence",
+      "1,119 event groups and approved county/subset counts",
+      "17 Data Package resource representations",
+      "scientific data, summaries and figure bytes preserved from the approved rehearsal archive",
+      "CFF, BibTeX, RIS, metadata, source-rights and scoped-license validation",
+      "privacy, personal-information and secret-pattern scans",
+      "local file-reference and checksum validation"
+    ]
+  }
+}

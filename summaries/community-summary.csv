@@ -1,0 +1,265 @@
+reported_location_or_community_label,NOT_municipal_boundary,observations,hail_days,event_groups,ground_max_inches,ground_size_missing,ground_ge_1,ground_ge_1_5,ground_ge_2,independent_corrob,radar_positive
+1 ENE Frederick,True,1,1,1,1.0,0,1,0,0,0,0
+1 N STONEHAM,True,1,1,1,1.0,0,1,0,0,0,0
+1 NW TIMNATH,True,1,1,1,1.0,0,1,0,0,0,0
+1 S GREELEY,True,1,1,1,1.0,0,1,0,0,0,0
+1 W Firestone,True,1,1,1,1.0,0,1,0,0,0,0
+1 WNW GREELEY,True,2,1,2,1.5,0,2,1,0,0,0
+2 NE GREELEY,True,1,1,1,1.0,0,1,0,0,0,0
+2 NNW GARDEN CITY,True,1,1,1,1.25,0,1,0,0,0,0
+2 NW NEW WINDSOR RESERV,True,2,1,2,1.25,0,2,0,0,0,0
+2 S LUCERNE,True,1,1,1,1.25,0,1,0,0,0,0
+2 WSW WINDSOR,True,1,1,1,1.0,0,1,0,0,0,0
+4 NNE TIMNATH,True,1,1,1,1.0,0,1,0,0,0,0
+46 S WINCHESTER HILLS S,True,1,1,1,1.0,0,1,0,0,0,0
+AULT,True,6,3,4,1.75,0,5,4,0,6,0
+Ault 1.1 WSW,True,2,2,2,0.875,0,0,0,0,1,0
+BARNESVILLE,True,4,3,4,1.75,0,3,1,0,4,0
+BERTHOUD,True,7,4,4,1.25,0,5,0,0,7,4
+BLV 1.0 S,True,4,4,4,0.75,0,0,0,0,2,0
+BLV 4.0 NW,True,6,6,6,1.25,0,1,0,0,2,0
+BRIGGSDALE,True,3,2,2,1.5,0,3,1,0,2,1
+BRIGGSDALE ARPT,True,1,1,1,2.75,0,1,1,1,1,0
+BUCKEYE,True,6,5,5,1.5,0,6,2,0,4,0
+BUCKINGHAM,True,7,5,5,3.0,0,7,6,3,7,0
+Barnesville 1.3 ESE,True,10,10,10,2.0,2,2,1,1,3,0
+Bellvue 0.7 W,True,1,1,1,0.25,0,0,0,0,1,0
+Bellvue 10.3 W,True,3,3,3,0.25,2,0,0,0,1,0
+Bellvue 4.9 NE,True,1,1,1,,1,0,0,0,0,0
+Bellvue 5.9 W,True,17,17,17,1.5,0,1,1,0,2,0
+Berthoud 2.4 SSW,True,2,2,2,0.5,0,0,0,0,0,0
+Berthoud 2.5 N,True,8,8,8,0.5,3,0,0,0,2,0
+Berthoud 3.0 NNW,True,3,3,3,0.5,0,0,0,0,1,0
+Berthoud 3.2 WSW,True,1,1,1,,1,0,0,0,1,0
+Berthoud 4.4 WSW,True,46,45,46,1.0,0,1,0,0,5,0
+Berthoud 5.0 WSW,True,1,1,1,0.375,0,0,0,0,0,0
+Berthoud 5.3 WSW,True,1,1,1,0.375,0,0,0,0,0,0
+Briggsdale 0.4 WNW,True,1,1,1,,1,0,0,0,0,0
+CAMPION,True,5,4,4,1.5,0,5,1,0,5,2
+CARR,True,5,4,4,2.0,0,5,3,2,3,0
+CORNISH,True,1,1,1,1.75,0,1,1,0,1,0
+Carr 0.6 S,True,7,7,7,0.75,2,0,0,0,1,0
+DACONO,True,5,3,3,1.75,0,5,1,0,5,0
+DRAKE,True,3,3,3,1.5,0,3,1,0,3,1
+DRAKES,True,26,9,9,1.75,0,13,2,0,26,3
+Drake 4.3 WSW,True,3,3,3,0.375,1,0,0,0,0,0
+EATON,True,14,6,6,2.5,0,12,6,1,14,4
+EATON ARPT,True,1,1,1,1.5,0,1,1,0,1,0
+ERIE,True,27,12,12,2.0,0,21,8,1,26,19
+ESTES PARK,True,3,3,3,1.0,0,1,0,0,3,1
+EVANS,True,10,7,7,2.0,0,9,3,2,10,4
+Eaton 3.4 SE,True,6,6,6,1.25,1,2,0,0,1,0
+Eaton 4.3 ENE,True,9,7,9,1.5,2,3,2,0,3,0
+Eaton 5.1 ESE,True,1,1,1,1.0,0,1,0,0,0,0
+Erie 1.6 NE,True,18,18,18,1.0,2,1,0,0,3,0
+Erie 1.7 NNW,True,1,1,1,1.0,0,1,0,0,1,0
+Estes Park 0.6 SSE,True,11,11,11,0.375,6,0,0,0,1,0
+Estes Park 1 E,True,2,1,2,0.25,0,0,0,0,0,0
+Estes Park 1.7 SW,True,7,7,7,0.5,0,0,0,0,1,0
+Estes Park 1.7 W,True,7,7,7,0.5,0,0,0,0,0,0
+Estes Park 1.7 WNW,True,12,11,11,0.5,0,0,0,0,3,0
+Estes Park 1.8 S,True,24,22,23,0.75,4,0,0,0,5,0
+Estes Park 1.8 SSE,True,1,1,1,0.5,0,0,0,0,0,0
+Estes Park 10.5 SE,True,7,7,7,0.25,1,0,0,0,0,0
+Estes Park 2.0 NE,True,1,1,1,0.5,0,0,0,0,1,0
+Estes Park 3.3 SSW,True,47,47,47,0.875,0,0,0,0,1,0
+Evans 0.6 W,True,6,5,5,1.75,0,1,1,0,4,0
+Evans 0.8 WSW,True,9,8,9,0.625,0,0,0,0,4,0
+FCL,True,10,9,9,0.625,0,0,0,0,2,0
+FCL 1.5 WSW,True,7,7,7,0.375,5,0,0,0,2,0
+FCL 1.7 SE,True,1,1,1,0.25,0,0,0,0,0,0
+FCL 1.7 SW,True,8,8,8,0.5,0,0,0,0,5,0
+FCL 1.8 SE,True,1,1,1,,1,0,0,0,0,0
+FCL 2.2 NW,True,24,23,23,1.5,0,2,1,0,10,0
+FCL 2.3 NW,True,35,32,34,1.5,1,1,1,0,11,0
+FCL 2.5 W,True,20,20,20,1.25,0,2,0,0,7,0
+FCL 2.55 NE,True,4,3,4,1.0,1,2,0,0,1,0
+FCL 3.0 SW,True,2,2,2,0.375,0,0,0,0,1,0
+FCL 3.0 W,True,15,14,14,0.5,5,0,0,0,6,0
+FCL 3.7 E,True,1,1,1,1.75,0,1,1,0,1,0
+FCL 4.7 SW,True,27,25,26,1.25,2,1,0,0,7,0
+FCL 5.5 S,True,1,1,1,0.5,0,0,0,0,1,0
+FCL 5.6 E,True,7,6,7,0.875,1,0,0,0,2,0
+FCL 7.9 ENE,True,5,5,5,1.75,0,1,1,0,1,0
+FIRESTONE,True,26,14,14,2.0,0,19,6,1,26,5
+FREDERICK,True,17,9,9,2.5,0,14,7,2,17,4
+FT COLLINS,True,17,9,9,1.75,0,16,4,0,17,5
+FT COLLINS/LOVELAND,True,6,4,4,1.75,0,5,1,0,6,0
+FT LUPTON,True,16,11,11,2.0,0,13,4,1,14,5
+Fort Collins 0.3 SSE,True,10,9,9,0.875,0,0,0,0,4,0
+Fort Collins 0.6 NNW,True,2,2,2,0.25,1,0,0,0,0,0
+Fort Collins 0.7 SSW,True,21,19,20,0.625,0,0,0,0,7,0
+Fort Collins 0.8 SSE,True,2,2,2,0.375,0,0,0,0,1,0
+Fort Collins 1.2 SE,True,2,2,2,0.625,0,0,0,0,1,0
+Fort Collins 1.2 WSW,True,1,1,1,0.375,0,0,0,0,0,0
+Fort Collins 1.3 ENE,True,27,23,24,1.0,0,1,0,0,10,0
+Fort Collins 1.3 S,True,2,2,2,,2,0,0,0,0,0
+Fort Collins 1.6 SSW,True,1,1,1,,1,0,0,0,0,0
+Fort Collins 1.7 WSW,True,3,2,2,0.375,0,0,0,0,2,0
+Fort Collins 1.8 S,True,1,1,1,,1,0,0,0,0,0
+Fort Collins 1.8 SE,True,9,9,9,0.5,0,0,0,0,3,0
+Fort Collins 2.2 ESE,True,6,6,6,0.5,2,0,0,0,3,0
+Fort Collins 2.3 SW,True,1,1,1,0.25,0,0,0,0,0,0
+Fort Collins 2.4 ESE,True,1,1,1,0.25,0,0,0,0,0,0
+Fort Collins 2.4 N,True,3,3,3,0.5,0,0,0,0,1,0
+Fort Collins 2.4 NNW,True,12,12,12,1.5,0,1,1,0,3,0
+Fort Collins 2.5 NW,True,11,10,10,0.875,0,0,0,0,7,0
+Fort Collins 2.5 WSW,True,2,2,2,0.5,0,0,0,0,1,0
+Fort Collins 2.6 SW,True,1,1,1,,1,0,0,0,0,0
+Fort Collins 2.7 NNE,True,1,1,1,,1,0,0,0,1,0
+Fort Collins 2.7 SSE,True,1,1,1,,1,0,0,0,0,0
+Fort Collins 2.8 NE,True,1,1,1,,1,0,0,0,0,0
+Fort Collins 2.8 NW,True,9,9,9,0.375,7,0,0,0,2,0
+Fort Collins 2.8 WSW,True,21,21,21,0.75,1,0,0,0,7,0
+Fort Collins 2.9 NW,True,4,4,4,1.0,0,1,0,0,2,0
+Fort Collins 3.0 SW,True,5,5,5,0.5,0,0,0,0,1,0
+Fort Collins 3.0 WNW,True,4,4,4,0.25,0,0,0,0,1,0
+Fort Collins 3.2 NW,True,1,1,1,0.625,0,0,0,0,1,0
+Fort Collins 3.4 N,True,23,23,23,1.0,0,1,0,0,6,0
+Fort Collins 3.5 SW,True,6,6,6,0.375,0,0,0,0,1,0
+Fort Collins 3.7 NW,True,2,2,2,0.375,0,0,0,0,0,0
+Fort Collins 3.7 S,True,3,3,3,0.5,0,0,0,0,2,0
+Fort Collins 3.8 SSW,True,4,4,4,0.375,3,0,0,0,0,0
+Fort Collins 3.8 SW,True,3,3,3,0.375,0,0,0,0,2,0
+Fort Collins 3.9 NNE,True,1,1,1,0.1,0,0,0,0,0,0
+Fort Collins 4.3 S,True,1,1,1,0.375,0,0,0,0,0,0
+Fort Collins 4.6 N,True,3,3,3,0.5,0,0,0,0,1,0
+Fort Collins 4.6 S,True,1,1,1,,1,0,0,0,0,0
+Fort Collins 4.7 NNE,True,1,1,1,0.875,0,0,0,0,0,0
+Fort Collins 4.7 S,True,7,7,7,0.5,1,0,0,0,5,0
+Fort Collins 4.8 SE,True,3,3,3,0.25,2,0,0,0,1,0
+Fort Collins 4.9 N,True,9,9,9,1.0,0,1,0,0,4,0
+Fort Collins 5.3 S,True,1,1,1,,1,0,0,0,1,0
+Fort Collins 5.4 N,True,22,22,22,0.875,9,0,0,0,3,0
+Fort Collins 5.4 WSW,True,28,28,28,1.0,14,1,0,0,5,0
+Fort Collins 5.5 S,True,3,3,3,0.5,0,0,0,0,0,0
+Fort Collins 7.3 SE,True,3,3,3,0.5,0,0,0,0,1,0
+Fort Collins 8.6 N,True,12,12,12,1.5,6,1,1,0,2,0
+Fort Collins 8.7 ENE,True,1,1,1,0.75,0,0,0,0,1,0
+Fort Lupton 0.1 SW,True,4,4,4,1.5,0,2,1,0,3,0
+Fort Lupton 1.2 SSW,True,4,4,4,1.5,0,3,1,0,3,0
+Four Corners 3.0 SSE,True,1,1,1,0.5,0,0,0,0,0,0
+Frederick 2.0 NW,True,1,1,1,1.5,0,1,1,0,0,0
+Frederick 3.0 WSW,True,4,4,4,1.0,0,1,0,0,3,0
+GALETON,True,8,5,5,2.0,0,7,4,1,8,1
+GARDEN CITY,True,9,7,7,2.5,0,9,3,1,7,2
+GILL,True,11,7,7,2.5,0,10,6,2,10,5
+GLEN HAVEN,True,2,2,2,1.5,0,2,1,0,2,2
+GLENDEVEY,True,1,1,1,1.75,0,1,1,0,0,0
+GLY 4.3 NE,True,1,1,1,1.0,0,1,0,0,1,0
+GREELEY,True,31,13,13,2.0,0,29,8,1,30,11
+GREELEY ARPT,True,5,3,3,2.5,0,5,4,3,5,1
+GROVER,True,7,6,6,2.0,0,7,5,3,6,4
+Galeton 1.4 SE,True,1,1,1,0.375,0,0,0,0,0,0
+Gill 3.8 NE,True,12,12,12,2.0,0,3,2,1,1,0
+Glen Haven 1.7 NE,True,12,12,12,0.5,10,0,0,0,0,0
+Glen Haven 1.8 NNW,True,1,1,1,0.25,0,0,0,0,0,0
+Greeley 0.5 NNW,True,1,1,1,,1,0,0,0,0,0
+Greeley 0.7 ESE,True,1,1,1,0.5,0,0,0,0,0,0
+Greeley 1 SW,True,9,9,9,1.5,4,1,1,0,4,0
+Greeley 1.0 WNW,True,2,2,2,0.375,0,0,0,0,1,0
+Greeley 1.2 NW,True,2,2,2,0.375,0,0,0,0,0,0
+Greeley 1.7 ESE,True,4,4,4,1.0,0,1,0,0,2,0
+Greeley 10.5 SSE,True,4,4,4,1.25,0,2,0,0,2,0
+Greeley 2.6 W,True,38,35,35,2.0,1,3,2,1,16,0
+Greeley 3.5 N,True,1,1,1,0.25,0,0,0,0,1,0
+Greeley 3.8 W,True,3,3,3,0.5,0,0,0,0,0,0
+Greeley 3.9 ENE,True,24,24,24,1.5,6,1,1,0,8,0
+Greeley 4.4 W,True,13,11,12,1.25,2,1,0,0,7,0
+Greeley 4.6 WNW,True,4,4,4,0.5,1,0,0,0,0,0
+Greeley 5.2 SW,True,22,22,22,1.5,3,1,1,0,8,0
+Greeley 6.6 E,True,6,6,6,1.75,0,2,1,0,3,0
+HARDIN,True,1,1,1,1.0,0,1,0,0,1,0
+HARMONY,True,7,5,5,1.5,0,5,3,0,6,2
+HEREFORD,True,9,5,5,3.0,0,9,5,2,7,3
+HUDSON,True,4,3,3,2.0,0,4,2,1,4,0
+HUDSON ARPT,True,3,2,2,1.0,0,2,0,0,3,0
+Horsetooth Mountain 3.2 NNW,True,1,1,1,,1,0,0,0,0,0
+Hudson 4.8 WSW,True,11,10,11,1.0,3,1,0,0,4,0
+JOHNSTOWN,True,18,9,9,2.75,0,16,5,2,17,14
+KEENESBURG,True,3,3,3,1.5,0,3,1,0,2,1
+KELIM,True,2,2,2,1.5,0,1,1,0,2,0
+KEOTA,True,4,3,3,2.5,0,4,3,1,3,0
+Keenesburg 0.4 ENE,True,8,6,7,1.75,0,3,2,0,2,0
+Kersey 1.3 WSW,True,3,3,3,2.5,2,1,1,1,2,0
+LA SALLE,True,6,5,5,1.0,0,5,0,0,6,1
+LAPORTE,True,1,1,1,1.75,0,1,1,0,1,0
+LOCHBUIE,True,4,4,4,1.75,0,3,2,0,3,0
+LOV 4.0 W,True,11,11,11,1.0,0,1,0,0,4,0
+LOVELAND,True,11,5,5,1.75,0,10,4,0,11,4
+LOVELAND HGTS,True,2,2,2,1.0,0,1,0,0,1,1
+LUCERNE,True,10,5,5,2.0,0,10,5,1,10,4
+La Salle 9.5 SSE,True,1,1,1,0.5,0,0,0,0,0,0
+Livermore 20.3 NW,True,1,1,1,0.875,0,0,0,0,0,0
+Livermore 8.5 WSW,True,2,2,2,0.5,0,0,0,0,0,0
+Longmont 4.6 NE,True,7,7,7,1.0,0,1,0,0,3,0
+Longmont 5.1 E,True,18,18,18,1.25,7,2,0,0,13,0
+Loveland 1.5 N,True,1,1,1,0.75,0,0,0,0,0,0
+Loveland 1.6 WNW,True,2,2,2,0.5,0,0,0,0,1,0
+Loveland 1.9 SSE,True,1,1,1,0.25,0,0,0,0,1,0
+Loveland 12.4 WSW,True,1,1,1,0.5,0,0,0,0,0,0
+Loveland 2.0 SSE,True,1,1,1,0.1,0,0,0,0,0,0
+Loveland 2.5 NW,True,2,2,2,0.625,0,0,0,0,1,0
+Loveland 2.7 E,True,5,5,5,0.25,1,0,0,0,1,0
+Loveland 2.8 E,True,3,3,3,0.375,0,0,0,0,1,0
+Loveland 2.8 WNW,True,5,5,5,0.75,0,0,0,0,2,0
+Loveland 3.0 NNE,True,22,21,22,0.75,4,0,0,0,5,0
+Loveland 3.1 WNW,True,1,1,1,0.375,0,0,0,0,0,0
+Loveland 4.0 SSW,True,27,27,27,1.0,1,1,0,0,7,0
+Loveland 4.3 SW,True,1,1,1,0.375,0,0,0,0,0,0
+Loveland 5.0 SW,True,8,8,8,0.75,3,0,0,0,3,0
+Loveland 5.3 W,True,1,1,1,,1,0,0,0,0,0
+Loveland 6.2 WSW,True,3,3,3,0.375,2,0,0,0,1,0
+Lyons 4.8 N,True,2,2,2,1.0,0,1,0,0,0,0
+Lyons 6.4 NW,True,28,28,28,0.5,4,0,0,0,0,0
+MASONVILLE,True,3,3,3,1.0,0,1,0,0,3,1
+MASTERS,True,4,4,4,1.0,0,2,0,0,1,3
+MEAD,True,13,8,9,1.75,0,8,2,0,12,1
+Masonville 3.4 NW,True,1,1,1,0.375,0,0,0,0,0,0
+Mead 0.8 W,True,1,1,1,0.25,0,0,0,0,0,0
+Milliken 1.0 ENE,True,3,3,3,1.5,0,1,1,0,0,0
+Milliken 2.7 NNW,True,2,2,2,1.25,0,2,0,0,1,0
+NEW RAYMER,True,11,9,9,1.75,0,9,3,0,7,4
+NEW RAYMER ARPT,True,2,2,2,1.5,0,2,1,0,0,0
+NUNN,True,20,13,14,1.75,0,18,7,0,17,5
+New Raymer 9.4 W,True,10,10,10,1.25,3,2,0,0,0,0
+Nunn 1.2 ENE,True,1,1,1,,1,0,0,0,0,0
+Nunn 6.5 NE,True,1,1,1,0.25,0,0,0,0,0,0
+OWL CANYON,True,1,1,1,1.5,0,1,1,0,1,0
+PAWNEE BUTTES,True,19,13,13,2.0,0,19,8,3,15,11
+PIERCE,True,7,4,6,4.25,0,7,5,2,7,2
+PLATTEVILLE,True,5,5,5,2.25,0,4,2,1,2,1
+PLATTEVILLE ARPT,True,2,2,2,1.0,0,2,0,0,1,1
+POUDRE PARK,True,2,2,2,1.75,0,2,1,0,2,0
+PROSPECT VALLEY,True,4,4,4,1.0,0,3,0,0,2,1
+PURCELL,True,4,4,4,1.75,0,3,3,0,3,2
+Pierce 0.2 NW,True,4,4,4,0.5,1,0,0,0,0,0
+RED FEATHER LAKES,True,3,1,1,1.75,0,3,2,0,3,0
+ROCKPORT,True,5,4,4,2.0,0,5,3,1,3,1
+ROGGEN,True,6,5,5,1.5,0,4,2,0,6,4
+RUSTIC,True,2,2,2,1.0,0,2,0,0,1,1
+Red Feather 5.9 NE,True,9,7,8,0.25,3,0,0,0,2,0
+Rustic 11.2 W,True,1,1,1,0.5,0,0,0,0,0,0
+SEVERANCE,True,8,4,4,2.75,0,8,6,3,8,6
+STONEHAM,True,31,17,17,3.25,0,27,13,10,22,19
+Severance 0.7 SW,True,1,1,1,1.0,0,1,0,0,1,0
+Stove Prairie 2 WNW,True,6,6,6,1.75,0,1,1,0,1,0
+THE FORKS,True,2,2,2,2.0,0,2,1,1,2,0
+TIMNATH,True,11,7,7,1.75,0,9,3,0,10,2
+Timnath 2.2 SE,True,6,6,6,1.5,1,2,1,0,3,0
+Timnath 4.1 NNE,True,43,39,41,1.0,3,3,0,0,13,0
+VIRGINIA DALE,True,3,2,2,2.5,0,3,2,1,3,0
+Virginia Dale 0.9 WSW,True,3,3,3,0.5,0,0,0,0,0,0
+Virginia Dale 7.2 SSW,True,6,6,6,2.0,0,1,1,1,1,0
+WEL 3.6 S,True,1,1,1,0.5,0,0,0,0,0,0
+WEL 4.8 NW,True,3,3,3,0.5,0,0,0,0,0,0
+WELLINGTON,True,18,7,7,2.5,0,18,10,4,17,14
+WINDSOR,True,15,13,13,2.0,0,11,4,2,15,3
+Wellington 0.6 SSE,True,8,8,8,0.625,0,0,0,0,0,0
+Wellington 0.8 SW,True,11,11,11,1.0,1,1,0,0,3,0
+Wellington 1.0 SSE,True,1,1,1,0.375,0,0,0,0,0,0
+Windsor 1.0 SSE,True,6,6,6,1.0,1,1,0,0,1,0
+Windsor 1.2 E,True,6,5,6,1.75,2,1,1,0,1,0
+Windsor 1.5 WNW,True,7,6,6,1.0,0,1,0,0,5,0
+Windsor 2.6 SW,True,2,2,2,0.75,0,0,0,0,1,0
+Windsor 3.0 SSE,True,2,2,2,0.5,0,0,0,0,1,0

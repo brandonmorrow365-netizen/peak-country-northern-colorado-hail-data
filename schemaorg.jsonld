@@ -1,0 +1,115 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Peak Country Northern Colorado Hail History Dataset, 2016–2025",
+  "description": "Source-traceable historical hail observations for Weld and Larimer Counties, Colorado, 2016–2025, including a geodesic 25-mile Greeley-reference subset, source-aware provenance, descriptive summaries and figures. These are historical reports, not a storm-frequency trend or site-specific damage determination.",
+  "version": "1.0.0",
+  "datePublished": "2026-10-11",
+  "dateModified": "2026-10-11",
+  "url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "inLanguage": "en",
+  "creator": {
+    "@type": "Organization",
+    "name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+    "url": "https://peakcountryhail.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+    "url": "https://peakcountryhail.com/"
+  },
+  "temporalCoverage": "2016-01-01/2025-12-31",
+  "spatialCoverage": [
+    {
+      "@type": "Place",
+      "name": "Weld County, Colorado"
+    },
+    {
+      "@type": "Place",
+      "name": "Larimer County, Colorado"
+    }
+  ],
+  "keywords": [
+    "Northern Colorado hail history",
+    "Greeley hail reports",
+    "Weld County hail observations",
+    "Larimer County hail history",
+    "NOAA NCEI historical hail data",
+    "ground hail observations",
+    "severe weather",
+    "geospatial data"
+  ],
+  "variableMeasured": [
+    "event_date_local",
+    "county_name",
+    "hail_magnitude_inches",
+    "latitude",
+    "longitude",
+    "independent_corroboration_status",
+    "radar_context_status"
+  ],
+  "license": [
+    "https://opendatacommons.org/licenses/by/1-0/",
+    "https://creativecommons.org/licenses/by/4.0/legalcode"
+  ],
+  "usageInfo": "Mixed rights: ODC-By 1.0 applies only to protectable Peak Country database-compilation rights (if any), CC BY 4.0 only to original expression (if any); CoCoRaHS source observations retain CC BY 3.0; U.S. federal weather facts are not relicensed. See RIGHTS_BY_FILE.md and RIGHTS.md. No DOI has been assigned.",
+  "isBasedOn": [
+    "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/",
+    "https://api2.cocorahs.org/api/HailObs"
+  ],
+  "encodingFormat": [
+    "text/csv",
+    "application/json",
+    "application/geo+json",
+    "application/vnd.apache.parquet"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Master observations — CSV",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Master observations — JSON",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Master observations — GeoJSON",
+      "encodingFormat": "application/geo+json",
+      "contentUrl": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.geojson"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Master observations — Parquet",
+      "encodingFormat": "application/vnd.apache.parquet",
+      "contentUrl": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.parquet"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "releaseStatus",
+      "value": "PUBLISHED_V1.0.0"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "reportCount",
+      "value": 1844
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "siteSpecificRiskConclusion",
+      "value": "NOT_SUPPORTED"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "downloadStatus",
+      "value": "PUBLIC_VERSIONED_DOWNLOADS"
+    }
+  ],
+  "identifier": "peak-country-northern-colorado-hail-history-2016-2025-v1.0.0"
+}

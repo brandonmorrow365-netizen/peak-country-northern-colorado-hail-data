@@ -1,0 +1,41 @@
+scope,year,observations,hail_days,event_groups,ground_max_inches,ground_size_missing,ground_ge_1,ground_ge_1_5,ground_ge_2,independent_corrob,radar_positive,mrms_coverage_status,mrms_coverage_note
+master,2016,231,51,167,2.5,31,58,40,11,85,,unavailable,no project MRMS archive coverage before 2020-10-14
+master,2017,177,43,121,4.25,20,32,17,6,63,,unavailable,no project MRMS archive coverage before 2020-10-14
+master,2018,343,51,174,2.75,28,126,54,10,190,,unavailable,no project MRMS archive coverage before 2020-10-14
+master,2019,275,51,152,3.0,28,118,40,8,145,,unavailable,no project MRMS archive coverage before 2020-10-14
+master,2020,191,30,103,2.0,18,39,21,4,102,0,partial,archive begins 2020-10-14; only late-year coverage
+master,2021,89,30,67,3.25,10,20,6,4,33,19,available,MRMS archive coverage available; not proof of complete observation sampling
+master,2022,65,24,35,2.5,6,31,16,3,35,25,available,MRMS archive coverage available; not proof of complete observation sampling
+master,2023,210,49,141,3.25,17,71,16,6,86,49,available,MRMS archive coverage available; not proof of complete observation sampling
+master,2024,103,28,56,2.0,9,32,9,3,53,38,available,MRMS archive coverage available; not proof of complete observation sampling
+master,2025,160,41,103,2.75,7,61,19,10,72,65,available,MRMS archive coverage available; not proof of complete observation sampling
+weld,2016,111,24,61,2.5,8,53,38,11,63,,unavailable,no project MRMS archive coverage before 2020-10-14
+weld,2017,65,21,40,4.25,5,22,12,6,31,,unavailable,no project MRMS archive coverage before 2020-10-14
+weld,2018,135,29,62,2.75,7,77,37,7,89,,unavailable,no project MRMS archive coverage before 2020-10-14
+weld,2019,134,30,57,3.0,9,88,28,8,96,,unavailable,no project MRMS archive coverage before 2020-10-14
+weld,2020,66,15,27,2.0,5,32,18,4,48,0,partial,archive begins 2020-10-14; only late-year coverage
+weld,2021,41,16,24,3.25,4,18,6,4,24,17,available,MRMS archive coverage available; not proof of complete observation sampling
+weld,2022,23,6,8,2.5,1,19,10,2,19,14,available,MRMS archive coverage available; not proof of complete observation sampling
+weld,2023,73,20,44,3.25,3,50,14,5,40,34,available,MRMS archive coverage available; not proof of complete observation sampling
+weld,2024,41,15,17,2.0,2,24,8,3,30,30,available,MRMS archive coverage available; not proof of complete observation sampling
+weld,2025,84,26,37,2.75,4,56,16,8,60,58,available,MRMS archive coverage available; not proof of complete observation sampling
+larimer,2016,120,38,108,1.75,23,5,2,0,22,,unavailable,no project MRMS archive coverage before 2020-10-14
+larimer,2017,112,33,83,1.75,15,10,5,0,32,,unavailable,no project MRMS archive coverage before 2020-10-14
+larimer,2018,208,40,120,2.5,21,49,17,3,101,,unavailable,no project MRMS archive coverage before 2020-10-14
+larimer,2019,141,37,98,1.75,19,30,12,0,49,,unavailable,no project MRMS archive coverage before 2020-10-14
+larimer,2020,125,27,78,1.75,13,7,3,0,54,0,partial,archive begins 2020-10-14; only late-year coverage
+larimer,2021,48,22,43,1.0,6,2,0,0,9,2,available,MRMS archive coverage available; not proof of complete observation sampling
+larimer,2022,42,22,29,2.0,5,12,6,1,16,11,available,MRMS archive coverage available; not proof of complete observation sampling
+larimer,2023,137,40,100,2.0,14,21,2,1,46,15,available,MRMS archive coverage available; not proof of complete observation sampling
+larimer,2024,62,20,40,1.5,7,8,1,0,23,8,available,MRMS archive coverage available; not proof of complete observation sampling
+larimer,2025,76,28,68,2.5,3,5,3,2,12,7,available,MRMS archive coverage available; not proof of complete observation sampling
+greeley_25mi,2016,137,29,89,2.5,14,43,29,9,63,,unavailable,no project MRMS archive coverage before 2020-10-14
+greeley_25mi,2017,108,27,66,4.25,8,24,10,4,47,,unavailable,no project MRMS archive coverage before 2020-10-14
+greeley_25mi,2018,199,26,91,2.75,12,72,28,4,122,,unavailable,no project MRMS archive coverage before 2020-10-14
+greeley_25mi,2019,168,34,83,2.0,16,72,28,4,100,,unavailable,no project MRMS archive coverage before 2020-10-14
+greeley_25mi,2020,112,22,59,2.0,13,17,10,2,63,0,partial,archive begins 2020-10-14; only late-year coverage
+greeley_25mi,2021,49,15,37,1.5,8,11,2,0,21,8,available,MRMS archive coverage available; not proof of complete observation sampling
+greeley_25mi,2022,32,9,13,2.5,2,21,12,3,22,16,available,MRMS archive coverage available; not proof of complete observation sampling
+greeley_25mi,2023,109,28,68,1.75,7,43,5,0,53,25,available,MRMS archive coverage available; not proof of complete observation sampling
+greeley_25mi,2024,59,18,30,2.0,5,19,5,1,33,21,available,MRMS archive coverage available; not proof of complete observation sampling
+greeley_25mi,2025,91,26,53,2.75,4,32,10,5,46,36,available,MRMS archive coverage available; not proof of complete observation sampling

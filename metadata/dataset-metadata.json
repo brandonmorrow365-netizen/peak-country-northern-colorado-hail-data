@@ -1,0 +1,24 @@
+{
+  "title": "Peak Country Northern Colorado Hail History Dataset, 2016–2025",
+  "publisher": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+  "period": "2016–2025",
+  "region": "Weld and Larimer Counties, Colorado",
+  "release_state": "published",
+  "license": "MIXED_RIGHTS_SEE_LICENSE_RIGHTS_ATTRIBUTION",
+  "doi": null,
+  "publication_date": "2026-10-11",
+  "public_repository_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data",
+  "public_release_url": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "public_download_url": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.csv",
+  "license_data": "ODC-By-1.0 (Peak Country protectable compilation/database rights only, if any)",
+  "license_content": "CC-BY-4.0 (protectable Peak Country-original expression only)",
+  "source_rights": "CoCoRaHS CC BY 3.0 independently preserved; NOAA/NWS/NCEI/SPC/MRMS public-domain federal information and other third-party source rights not relicensed; Peak Country trademarks reserved",
+  "publisher_url": "https://peakcountryhail.com/",
+  "publisher_identity": {
+    "@type": "Organization",
+    "name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+    "url": "https://peakcountryhail.com/"
+  },
+  "publisher_role": "Independent dataset compiler/publisher of original presentation; weather source rights independent",
+  "short_title": "Peak Country Northern Colorado Hail History Dataset"
+}

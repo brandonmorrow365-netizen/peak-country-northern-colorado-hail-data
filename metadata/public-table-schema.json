@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "name": "observation_id",
+      "type": "string",
+      "description": "Stable Peak Country identifier for one underlying ground/reporting observation lineage.",
+      "constraints": {
+        "required": true,
+        "unique": true
+      }
+    },
+    {
+      "name": "identity_status",
+      "type": "string",
+      "description": "Current lifecycle state of the observation identity."
+    },
+    {
+      "name": "event_date_local",
+      "type": "date",
+      "description": "Local calendar date used for annual/monthly/hail-day reporting."
+    },
+    {
+      "name": "observation_time_local",
+      "type": "string",
+      "description": "Canonical source-local observation timestamp without inventing an offset."
+    },
+    {
+      "name": "observation_time_utc",
+      "type": "string",
+      "description": "Canonical observation timestamp normalized to UTC only when source timezone can be resolved deterministically."
+    },
+    {
+      "name": "time_normalization_status",
+      "type": "string",
+      "description": "Explains whether the canonical local time could be normalized reliably to UTC."
+    },
+    {
+      "name": "year",
+      "type": "integer",
+      "description": "Reporting year derived from event_date_local."
+    },
+    {
+      "name": "month",
+      "type": "integer",
+      "description": "Reporting month number derived from event_date_local."
+    },
+    {
+      "name": "state_name",
+      "type": "string",
+      "description": "Normalized state name for V1 observation geography."
+    },
+    {
+      "name": "state_fips",
+      "type": "string",
+      "description": "Two-character state FIPS preserving leading zeroes."
+    },
+    {
+      "name": "county_name",
+      "type": "string",
+      "description": "Approved county name used for V1 observation classification."
+    },
+    {
+      "name": "county_fips",
+      "type": "string",
+      "description": "Three-character county FIPS preserving leading zeroes."
+    },
+    {
+      "name": "county_geoid",
+      "type": "string",
+      "description": "Five-character state+county GEOID."
+    },
+    {
+      "name": "geographic_classification_status",
+      "type": "string",
+      "description": "Agreement/conflict state between source and derived geography."
+    },
+    {
+      "name": "latitude",
+      "type": "number",
+      "description": "Approved usable observation latitude for coordinate-dependent derived outputs."
+    },
+    {
+      "name": "longitude",
+      "type": "number",
+      "description": "Approved usable observation longitude for coordinate-dependent derived outputs."
+    },
+    {
+      "name": "coordinate_status",
+      "type": "string",
+      "description": "Usability/availability state for observation coordinates."
+    },
+    {
+      "name": "canonical_reported_location",
+      "type": "string",
+      "description": "Location wording from the canonical source representation, preserved as source-derived display context."
+    },
+    {
+      "name": "normalized_display_location",
+      "type": "string",
+      "description": "Optional cleaned display/community label that does not claim city-limit membership."
+    },
+    {
+      "name": "hail_magnitude_inches",
+      "type": "number",
+      "description": "Canonical role-specific hail magnitude in inches; never an average of conflicting source values."
+    },
+    {
+      "name": "measurement_status",
+      "type": "string",
+      "description": "Nature of the canonical measurement/assertion."
+    },
+    {
+      "name": "canonical_source_role",
+      "type": "string",
+      "description": "Role of the canonical source representation for this observation."
+    },
+    {
+      "name": "evidence_class",
+      "type": "string",
+      "description": "Observation-level evidence summary class."
+    },
+    {
+      "name": "independent_supporting_observation_count",
+      "type": "integer",
+      "description": "Number of other confirmed independent ground-observation lineages associated with the same event group under T03/T09 rules."
+    },
+    {
+      "name": "independent_corroboration_status",
+      "type": "string",
+      "description": "Whether independent supporting ground observations are established."
+    },
+    {
+      "name": "radar_context_status",
+      "type": "string",
+      "description": "Whether MRMS/MESH context is associated separately from ground observations."
+    },
+    {
+      "name": "conflict_status",
+      "type": "string",
+      "description": "Summary state indicating whether material source conflicts remain for this observation."
+    },
+    {
+      "name": "duplicate_candidate_status",
+      "type": "string",
+      "description": "Summary state for unresolved/resolved duplicate-candidate relationships."
+    },
+    {
+      "name": "distance_from_greeley_miles",
+      "type": "number",
+      "description": "WGS84 ellipsoidal distance from frozen Lincoln Park reference, in statute miles."
+    },
+    {
+      "name": "greeley_25mi_status",
+      "type": "string",
+      "description": "Eligibility for the derived Greeley 25-mile subset."
+    },
+    {
+      "name": "distance_bin",
+      "type": "string",
+      "description": "Descriptive distance band under T05 semantics."
+    },
+    {
+      "name": "quality_flags",
+      "type": "string",
+      "description": "Sorted controlled public-safe quality/limitation codes derived from issues."
+    },
+    {
+      "name": "dataset_version",
+      "type": "string",
+      "description": "Dataset release version containing this row."
+    },
+    {
+      "name": "methodology_version",
+      "type": "string",
+      "description": "Methodology version used to derive this row."
+    }
+  ],
+  "missingValues": [
+    ""
+  ],
+  "primaryKey": "observation_id"
+}

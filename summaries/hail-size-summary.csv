@@ -1,0 +1,7 @@
+ground_size_bin,observations
+missing,174
+lt_0_5,717
+ge_0_5_lt_1,365
+ge_1_lt_1_5,350
+ge_1_5_lt_2,173
+ge_2,65

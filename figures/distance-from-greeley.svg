@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg role="img" aria-labelledby="pc-figure-title pc-figure-desc" xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="431.2pt" viewBox="0 0 720 431.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title id="pc-figure-title">Distance from Greeley geographic reference</title>
+ <desc id="pc-figure-desc">Six distance bins for 1,844 observations measured by WGS84 geodesic distance from the fixed neutral Lincoln Park, Greeley reference: 0–5 miles 168, over 5–10 miles 109, over 10–15 miles 130, over 15–20 miles 156, over 20–25 miles 501, and outside 25 miles 780. The reference is methodological, not a business address.</desc>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-08T02:07:56.520669</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Peak Country Auto Hail Repair &amp; Paintless Dent Repair</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   <dc:publisher>Peak Country Auto Hail Repair &amp; Paintless Dent Repair</dc:publisher><dc:relation>https://peakcountryhail.com/</dc:relation><dc:rights>CC BY 4.0 only original chart expression where protectable; underlying source rights independent. https://creativecommons.org/licenses/by/4.0/legalcode</dc:rights></cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 403.2 
+L 720 403.2 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 93.6 314.496 
+L 669.6 314.496 
+L 669.6 72.576 
+L 93.6 72.576 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="md5b03bb35a" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#md5b03bb35a" x="155.894671" y="314.496" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="155.894671" y="329.853422" transform="rotate(-0 155.894671 329.853422)">0–5</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#md5b03bb35a" x="246.176803" y="314.496" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="246.176803" y="329.853422" transform="rotate(-0 246.176803 329.853422)">&gt;5–10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#md5b03bb35a" x="336.458934" y="314.496" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="336.458934" y="329.853422" transform="rotate(-0 336.458934 329.853422)">&gt;10–15</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#md5b03bb35a" x="426.741066" y="314.496" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.741066" y="329.853422" transform="rotate(-0 426.741066 329.853422)">&gt;15–20</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#md5b03bb35a" x="517.023197" y="314.496" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="517.023197" y="329.853422" transform="rotate(-0 517.023197 329.853422)">&gt;20–25</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#md5b03bb35a" x="607.305329" y="314.496" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="607.305329" y="329.853422" transform="rotate(-0 607.305329 329.853422)">&gt;25</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <path d="M 93.6 314.496 
+L 669.6 314.496 
+" clip-path="url(#p1b1132a24b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <defs>
+       <path id="m26343642ea" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m26343642ea" x="93.6" y="314.496" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="86.6" y="318.674711" transform="rotate(-0 86.6 318.674711)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <path d="M 93.6 261.927551 
+L 669.6 261.927551 
+" clip-path="url(#p1b1132a24b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m26343642ea" x="93.6" y="261.927551" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="86.6" y="266.106262" transform="rotate(-0 86.6 266.106262)">200</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <path d="M 93.6 209.359103 
+L 669.6 209.359103 
+" clip-path="url(#p1b1132a24b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m26343642ea" x="93.6" y="209.359103" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="86.6" y="213.537814" transform="rotate(-0 86.6 213.537814)">400</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 93.6 156.790654 
+L 669.6 156.790654 
+" clip-path="url(#p1b1132a24b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m26343642ea" x="93.6" y="156.790654" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="86.6" y="160.969365" transform="rotate(-0 86.6 160.969365)">600</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 93.6 104.222206 
+L 669.6 104.222206 
+" clip-path="url(#p1b1132a24b)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.15; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m26343642ea" x="93.6" y="104.222206" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="86.6" y="108.400917" transform="rotate(-0 86.6 108.400917)">800</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="58.961172" y="193.536" transform="rotate(-90 58.961172 193.536)">Confirmed ground observations</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 119.781818 314.496 
+L 192.007524 314.496 
+L 192.007524 270.338503 
+L 119.781818 270.338503 
+z
+" clip-path="url(#p1b1132a24b)" style="fill: #245271"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 210.06395 314.496 
+L 282.289655 314.496 
+L 282.289655 285.846196 
+L 210.06395 285.846196 
+z
+" clip-path="url(#p1b1132a24b)" style="fill: #245271"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 300.346082 314.496 
+L 372.571787 314.496 
+L 372.571787 280.326508 
+L 300.346082 280.326508 
+z
+" clip-path="url(#p1b1132a24b)" style="fill: #245271"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 390.628213 314.496 
+L 462.853918 314.496 
+L 462.853918 273.49261 
+L 390.628213 273.49261 
+z
+" clip-path="url(#p1b1132a24b)" style="fill: #245271"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 480.910345 314.496 
+L 553.13605 314.496 
+L 553.13605 182.812037 
+L 480.910345 182.812037 
+z
+" clip-path="url(#p1b1132a24b)" style="fill: #245271"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 571.192476 314.496 
+L 643.418182 314.496 
+L 643.418182 109.479051 
+L 571.192476 109.479051 
+z
+" clip-path="url(#p1b1132a24b)" style="fill: #245271"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 93.6 314.496 
+L 93.6 72.576 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 93.6 314.496 
+L 669.6 314.496 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="155.894671" y="266.238164" transform="rotate(-0 155.894671 266.238164)">168</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="246.176803" y="281.745857" transform="rotate(-0 246.176803 281.745857)">109</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="336.458934" y="276.226169" transform="rotate(-0 336.458934 276.226169)">130</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="426.741066" y="269.392271" transform="rotate(-0 426.741066 269.392271)">156</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="517.023197" y="178.711698" transform="rotate(-0 517.023197 178.711698)">501</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="607.305329" y="105.378712" transform="rotate(-0 607.305329 105.378712)">780</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start" x="93.6" y="56.576" transform="rotate(-0 93.6 56.576)">Distance from Greeley geographic reference</text>
+   </g>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start" x="72" y="389.088" transform="rotate(-0 72 389.088)">Miles from neutral Lincoln Park reference, NOT a business address. 25-mile total: 1,064.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1b1132a24b">
+   <rect x="93.6" y="72.576" width="576" height="241.92"/>
+  </clipPath>
+ </defs>
+
+ <g id="peak-country-credit-footer"><rect x="0" y="403.2" width="720" height="28" fill="#ffffff"/><path d="M 72 405.2 H 662.4" stroke="#dce5eb" stroke-width="0.8"/><a xlink:href="https://peakcountryhail.com/"><text x="79.2" y="421.7" style="font-family:DejaVu Sans,Arial,sans-serif;font-size:9px;fill:#31485c">Visualization by Peak Country Hail | peakcountryhail.com</text></a></g>
+</svg>

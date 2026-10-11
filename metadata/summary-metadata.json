@@ -1,0 +1,12 @@
+{
+  "hail_day": "distinct calendar date with confirmed ground observation per scope",
+  "event_group": "distinct T09 group; not synonymous with observation",
+  "monthly": "descriptive historical distribution; no significance claim",
+  "mrms_archive_start": "2020-10-14",
+  "mrms_annual_coverage": {
+    "2016-2019": "unavailable; radar_positive null, not numeric zero",
+    "2020": "partial year from 2020-10-14; zero applies to available sampled period only",
+    "2021-2025": "archive coverage available; radar positive is contextual not hail-ground truth"
+  },
+  "mrms_semantics": "MRMS is radar-derived context only; sampled no-signal does not prove absence of hail."
+}

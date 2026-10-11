@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "vcard": "http://www.w3.org/2006/vcard/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@type": "dcat:Dataset",
+  "@id": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0",
+  "dct:title": "Peak Country Northern Colorado Hail History Dataset, 2016–2025",
+  "dct:description": "Validated historic reported-ground-hail observations, 2016–2025; Weld/Larimer scope and neutral Greeley-radius subset. Published as GitHub release v1.0.0; no DOI assigned.",
+  "dct:issued": {
+    "@value": "2026-10-11",
+    "@type": "xsd:date"
+  },
+  "dct:modified": {
+    "@value": "2026-10-11",
+    "@type": "xsd:date"
+  },
+  "dcat:landingPage": {
+    "@id": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data"
+  },
+  "dct:publisher": {
+    "@type": "foaf:Organization",
+    "foaf:name": "Peak Country Auto Hail Repair & Paintless Dent Repair",
+    "foaf:homepage": {
+      "@id": "https://peakcountryhail.com/"
+    }
+  },
+  "dcat:keyword": [
+    "hail history",
+    "Greeley",
+    "Weld County",
+    "Larimer County",
+    "ground observations",
+    "Northern Colorado"
+  ],
+  "dct:temporal": {
+    "@type": "dct:PeriodOfTime",
+    "dcat:startDate": {
+      "@value": "2016-01-01",
+      "@type": "xsd:date"
+    },
+    "dcat:endDate": {
+      "@value": "2025-12-31",
+      "@type": "xsd:date"
+    }
+  },
+  "dct:language": {
+    "@id": "http://publications.europa.eu/resource/authority/language/ENG"
+  },
+  "dct:provenance": "See SOURCE_PROVENANCE.md and sources/source-retrieval-details.json; independently licensed CoCoRaHS and U.S. government-source limitations apply.",
+  "dcat:distribution": [
+    {
+      "@type": "dcat:Distribution",
+      "dct:title": "Master observations — CSV",
+      "dcat:mediaType": "text/csv",
+      "dct:description": "Version 1.0.0 master observations in CSV format.",
+      "dcat:accessURL": {"@id": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0"},
+      "dcat:downloadURL": {"@id": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.csv"}
+    },
+    {
+      "@type": "dcat:Distribution",
+      "dct:title": "Master observations — JSON",
+      "dcat:mediaType": "application/json",
+      "dct:description": "Version 1.0.0 master observations in JSON format.",
+      "dcat:accessURL": {"@id": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0"},
+      "dcat:downloadURL": {"@id": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.json"}
+    },
+    {
+      "@type": "dcat:Distribution",
+      "dct:title": "Master observations — GeoJSON",
+      "dcat:mediaType": "application/geo+json",
+      "dct:description": "Version 1.0.0 master observations in GeoJSON format.",
+      "dcat:accessURL": {"@id": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0"},
+      "dcat:downloadURL": {"@id": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.geojson"}
+    },
+    {
+      "@type": "dcat:Distribution",
+      "dct:title": "Master observations — Parquet",
+      "dcat:mediaType": "application/vnd.apache.parquet",
+      "dct:description": "Version 1.0.0 master observations in Parquet format.",
+      "dcat:accessURL": {"@id": "https://github.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/releases/tag/v1.0.0"},
+      "dcat:downloadURL": {"@id": "https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.parquet"}
+    }
+  ],
+  "dcat:version": "1.0.0"
+}
