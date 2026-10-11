@@ -1218,7 +1218,7 @@
   },
   "mrms_mesh": {
     "source_role": "radar-only context",
-    "official_url": "https://noaa-mrms-pds.s3.amazonaws.com/CONUS/MESH_00.50/",
+    "official_url": "https://noaa-mrms-pds.s3.amazonaws.com/?list-type=2&prefix=CONUS/MESH_00.50/",
     "product": "CONUS/MESH_00.50",
     "archive_start": "2020-10-14",
     "retrieval_timestamp": "2026-10-07T23:01:30Z",

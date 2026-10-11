@@ -16,7 +16,7 @@ Four master formats represent the **same** 1,844 observations; never sum across 
 
 ## Versioned public downloads
 
-Versioned raw downloads use the `v1.0.0` tag under `https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/`. The Schema.org and DCAT descriptors provide explicit links for each of the four equivalent master formats. `SHA256SUMS.txt` and `CHECKSUMS.sha256` verify the released repository files.
+The versioned raw downloads listed below use the immutable `v1.0.0` tag. The Schema.org and DCAT descriptors provide explicit links for each of the four equivalent master formats. `SHA256SUMS.txt` and `CHECKSUMS.sha256` verify the released repository files.
 
 - [Master CSV](https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.csv)
 - [Master JSON](https://raw.githubusercontent.com/brandonmorrow365-netizen/peak-country-northern-colorado-hail-data/v1.0.0/data/northern-colorado-hail-history-2016-2025.json)
